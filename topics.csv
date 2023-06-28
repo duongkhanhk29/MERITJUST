@@ -1,0 +1,54 @@
+﻿Code,Topics,Question
+stflife ,Perceptions, How satisfied with life as a whole--
+stfeco ,Perceptions, How satisfied with present state of economy in country--
+stfgov ,Perceptions, How satisfied with the national government--
+stfdem ,Perceptions, How satisfied with the way democracy works in country--
+stfedu ,Perceptions, State of education in country nowadays--
+stfhlth ,Perceptions, State of health services in country nowadays--
+gincdif ,Perceptions, Government should reduce differences in income levels--
+rlgdgr ,Social, How religious are you--
+dscrgrp ,Social, Member of a group discriminated against in this country--
+dscrrce ,Social, Discrimination of respondent's group: colour or race--
+dscrntn ,Social, Discrimination of respondent's group: nationality--
+dscrrlg ,Social, Discrimination of respondent's group: religion--
+dscrlng ,Social, Discrimination of respondent's group: language--
+dscretn ,Social, Discrimination of respondent's group: ethnic group--
+dscrage ,Social, Discrimination of respondent's group: age--
+dscrgnd ,Social, Discrimination of respondent's group: gender--
+dscrsex ,Social, Discrimination of respondent's group: sexuality--
+dscrdsb ,Social, Discrimination of respondent's group: disability--
+ctzcntr ,Natural, Citizen of country--
+brncntr ,Natural, Born in country--
+gndr ,Natural, Gender--
+eisced ,Social," Highest level of education, ES - ISCED-"
+eduyrs ,Social, Years of full-time education completed-
+isco08 ,Social," Occupation, ISCO08--"
+hinctnta ,Social," Household's total net income, all sources--"
+hincfel ,Social, Feeling about household's income nowadays--
+eiscedp ,Social," Partner's highest level of education, ES - ISCED-"
+isco08p ,Social," Occupation partner, ISCO08--"
+eiscedf ,Social," Father's highest level of education, ES - ISCED-"
+occf14b ,Social, Father's occupation when respondent 14--
+eiscedm ,Social," Mother's highest level of education, ES - ISCED-"
+occm14b ,Social, Mother's occupation when respondent 14--
+ipcrtiv ,Personality, Important to think new ideas and being creative--
+imprich ,Personality," Important to be rich, have money and expensive things--"
+ipeqopt ,Personality, Important that people are treated equally and have equal opportunities--
+ipshabt ,Personality, Important to show abilities and be admired--
+impsafe ,Personality, Important to live in secure and safe surroundings--
+impdiff ,Personality, Important to try new and different things in life--
+ipfrule ,Personality, Important to do what is told and follow rules--
+ipudrst ,Personality, Important to understand different people--
+ipmodst ,Personality," Important to be humble and modest, not draw attention--"
+ipgdtim ,Personality, Important to have a good time--
+impfree ,Personality, Important to make own decisions and be free--
+iphlppl ,Personality, Important to help people and care for others well-being-
+ipsuces ,Personality, Important to be successful and that people recognise achievements--
+ipstrgv ,Personality, Important that government is strong and ensures safety--
+ipadvnt ,Personality, Important to seek adventures and have an exciting life--
+ipbhprp ,Personality, Important to behave properly--
+iprspot ,Personality, Important to get respect from others--
+iplylfr ,Personality, Important to be loyal to friends and devote to people close--
+impenv ,Personality, Important to care for nature and environment--
+imptrad ,Personality, Important to follow traditions and customs--
+impfun ,Personality, Important to seek fun and things that give pleasure--
