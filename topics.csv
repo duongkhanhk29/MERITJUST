@@ -17,7 +17,7 @@ dscrage ,Social, Discrimination of respondent's group: age--
 dscrgnd ,Social, Discrimination of respondent's group: gender--
 dscrsex ,Social, Discrimination of respondent's group: sexuality--
 dscrdsb ,Social, Discrimination of respondent's group: disability--
-ctzcntr ,Natural, Citizen of country--
+ctzcntr ,Social, Citizen of country--
 brncntr ,Natural, Born in country--
 gndr ,Natural, Gender--
 eisced ,Social," Highest level of education, ES - ISCED-"
