@@ -1,0 +1,106 @@
+Var,Topic,Explain
+atchctr,Belonging, How emotionally attached to [country]
+blgetmg,Belonging, Belong to minority ethnic group in country
+brncntr,Belonging, Born in country
+ctzcntr,Belonging, Citizen of country
+dscrgrp,Belonging, Member of a group discriminated against in this country
+facntr,Belonging, Father born in country
+mocntr,Belonging, Mother born in country
+impdiff,Human values, Important to try new and different things in life
+impenv,Human values, Important to care for nature and environment
+impfree,Human values, Important to make own decisions and be free
+impfun,Human values, Important to seek fun and things that give pleasure
+imprich,Human values," Important to be rich, have money and expensive things"
+impsafe,Human values, Important to live in secure and safe surroundings
+imptrad,Human values, Important to follow traditions and customs
+ipadvnt,Human values, Important to seek adventures and have an exciting life
+ipbhprp,Human values, Important to behave properly
+ipcrtiv,Human values, Important to think new ideas and being creative
+ipeqopt,Human values, Important that people are trea ... y and have equal opportunities
+ipfrule,Human values, Important to do what is told and follow rules
+ipgdtim,Human values, Important to have a good time
+iphlppl,Human values, Important to help people and care for others well-being
+iplylfr,Human values, Important to be loyal to friends and devote to people close
+ipmodst,Human values," Important to be humble and modest, not draw attention"
+iprspot,Human values, Important to get respect from others
+ipshabt,Human values, Important to show abilities and be admired
+ipstrgv,Human values, Important that government is strong and ensures safety
+ipsuces,Human values, Important to be successful and that people recognise achievements
+ipudrst,Human values, Important to understand different people
+imbgeco,Immigration, Immigration bad or good for country's economy
+imdfetn,Immigration, Allow many/few immigrants of d ... ace/ethnic group from majority
+impcntr,Immigration, Allow many/few immigrants from poorer countries outside Europe
+imsmetn,Immigration, Allow many/few immigrants of same race/ethnic group as majority
+imueclt,Immigration, Country's cultural life undermined or enriched by immigrants
+imwbcnt,Immigration, Immigrants make country worse or better place to live
+btminfr,Justice and Fairness," Bottom 10% full-time employees ... g less than [amount], how fair"
+evfredu,Justice and Fairness, Everyone in country fair chanc ... e level of education they seek
+evfrjob,Justice and Fairness, Everyone in country fair chance get job they seek
+frprtpl,Justice and Fairness, Political system in country en ... nce to participate in politics
+grspfr,Justice and Fairness," Would you say your gross pay i ... ly low, fair, or unfairly high"
+grsplet,Justice and Fairness, Which letter describes your gross pay
+gvintcz,Justice and Fairness, Government in country takes in ... the interests of all citizens
+ifredu,Justice and Fairness, Compared other people in count ... ieve level of education I seek
+ifrjob,Justice and Fairness," Compared other people in country, fair chance get job I seek"
+jstprev,Justice and Fairness, Confident that justice always prevails over injustice
+netifr,Justice and Fairness," Your net [pay/pensions/social ... ly low, fair, or unfairly high"
+netilet,Justice and Fairness, Which letter describes your net pay
+occinfr,Justice and Fairness," Net [pay/pensions/social benef ... on as you in country, how fair"
+pcmpinj,Justice and Fairness, Convinced that in the long run people compensated for injustices
+poltran,Justice and Fairness, Decisions in country politics are transparent
+ppldsrv,Justice and Fairness," By and large, people get what they deserve"
+recexp,Justice and Fairness, Influence decision to recruit ... person's on-the-job experience
+recgndr,Justice and Fairness, Influence decision to recruit in country: person's gender
+recimg,Justice and Fairness, Influence decision to recruit ... erson has immigrant background
+recknow,Justice and Fairness, Influence decision to recruit ... knows someone in organisation
+recskil,Justice and Fairness, Influence decision to recruit ... person's knowledge and skills
+sofrdst,Justice and Fairness, Society fair when income and wealth is equally distributed
+sofrpr,Justice and Fairness," Society fair when takes care o ... , regardless of what give back"
+sofrprv,Justice and Fairness, Society fair when people from ... social status enjoy privileges
+sofrwrk,Justice and Fairness, Society fair when hard-working people earn more than others
+topinfr,Justice and Fairness," Top 10% full-time employees in ... g more than [amount], how fair"
+wltdffr,Justice and Fairness," Differences in wealth in country, how fair"
+freehms,LGBT, Gays and lesbians free to live life as they wish
+hmsacld,LGBT, Gay and lesbian couples right to adopt children
+hmsfmlsh,LGBT, Ashamed if close family member gay or lesbian
+gincdif,Perception, Government should reduce differences in income levels
+stfedu,Perception, State of education in country nowadays
+stfhlth,Perception, State of health services in country nowadays
+trstep,Political trust, Trust in the European Parliament
+trstlgl,Political trust, Trust in the legal system
+trstplc,Political trust, Trust in the police
+trstplt,Political trust, Trust in politicians
+trstprl,Political trust, Trust in country's parliament
+trstprt,Political trust, Trust in political parties
+trstun,Political trust, Trust in the United Nations
+pray,Religion, How often pray apart from at religious services
+rlgatnd,Religion, How often attend religious services apart from special occasions
+rlgdgr,Religion, How religious are you
+lrscale,Rightwing, Placement on left right scale
+stfdem,Satisfaction, How satisfied with the way democracy works in country
+stfeco,Satisfaction, How satisfied with present state of economy in country
+stfgov,Satisfaction, How satisfied with the national government
+stflife,Satisfaction, How satisfied with life as a whole
+inprdsc,Social network, How many people with whom you ... intimate and personal matters
+sclact,Social network, Take part in social activities compared to others of same age
+sclmeet,Social network," How often socially meet with friends, relatives or colleagues"
+pplfair,Social trust," Most people try to take advantage of you, or try to be fair"
+pplhlp,Social trust, Most of the time people helpfu ... tly looking out for themselves
+ppltrst,Social trust, Most people can be trusted or you can't be too careful
+domicil,Socio-demographics," Domicile, respondent's description"
+eisced,Socio-demographics," Highest level of education, ES - ISCED"
+eiscedf,Socio-demographics," Father's highest level of education, ES - ISCED"
+eiscedm,Socio-demographics," Mother's highest level of education, ES -  ISCED"
+eiscedp,Socio-demographics," Partner's highest level of education, ES - ISCED"
+gndr,Socio-demographics, Gender
+hincfel,Socio-demographics, Feeling about household's income nowadays
+hinctnta,Socio-demographics," Household's total net income, all sources"
+isco08,Socio-demographics," Occupation, ISCO08"
+isco08p,Socio-demographics," Occupation partner, ISCO08"
+occf14b,Socio-demographics, Father's occupation when respondent 14
+occm14b,Socio-demographics, Mother's occupation when respondent 14
+aesfdrk,Wellbeing, Feeling of safety of walking alone in local area after dark
+crmvct,Wellbeing, Respondent or household member ... burglary/assault last 5 years
+happy,Wellbeing, How happy are you
+health,Wellbeing, Subjective general health
+hlthhmp,Wellbeing, Hampered in daily activities b ... ility/infirmity/mental problem
