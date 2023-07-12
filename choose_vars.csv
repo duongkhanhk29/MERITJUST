@@ -1,0 +1,57 @@
+﻿Var,Topic,Explain
+stfdem,Country.setting, How satisfied with the way democracy works in country
+stfeco,Country.setting, How satisfied with present state of economy in country
+stfedu,Country.setting, State of education in country nowadays
+stfgov,Country.setting, How satisfied with the national government
+stfhlth,Country.setting, State of health services in country nowadays
+blgetmg,Discrimination, Belong to minority ethnic group in country
+brncntr,Discrimination, Born in country
+ctzcntr,Discrimination, Citizen of country
+dscrgrp,Discrimination, Member of a group discriminated against in this country
+facntr,Discrimination, Father born in country
+gndr,Discrimination, Gender
+mocntr,Discrimination, Mother born in country
+impdiff,Human.values, Important to try new and different things in life
+impenv,Human.values, Important to care for nature and environment
+impfree,Human.values, Important to make own decisions and be free
+impfun,Human.values, Important to seek fun and things that give pleasure
+imprich,Human.values," Important to be rich, have money and expensive things"
+impsafe,Human.values, Important to live in secure and safe surroundings
+imptrad,Human.values, Important to follow traditions and customs
+ipadvnt,Human.values, Important to seek adventures and have an exciting life
+ipbhprp,Human.values, Important to behave properly
+ipcrtiv,Human.values, Important to think new ideas and being creative
+ipeqopt,Human.values, Important that people are trea ... y and have equal opportunities
+ipfrule,Human.values, Important to do what is told and follow rules
+ipgdtim,Human.values, Important to have a good time
+iphlppl,Human.values, Important to help people and care for others well-being
+iplylfr,Human.values, Important to be loyal to friends and devote to people close
+ipmodst,Human.values," Important to be humble and modest, not draw attention"
+iprspot,Human.values, Important to get respect from others
+ipshabt,Human.values, Important to show abilities and be admired
+ipstrgv,Human.values, Important that government is strong and ensures safety
+ipsuces,Human.values, Important to be successful and that people recognise achievements
+ipudrst,Human.values, Important to understand different people
+recexp,Influence.decision, Influence decision to recruit ... person's on-the-job experience
+recgndr,Influence.decision, Influence decision to recruit in country: person's gender
+recimg,Influence.decision, Influence decision to recruit ... erson has immigrant background
+recknow,Influence.decision, Influence decision to recruit ... knows someone in organisation
+recskil,Influence.decision, Influence decision to recruit ... person's knowledge and skills
+sofrdst,Society.fair, Society fair when income and wealth is equally distributed
+sofrpr,Society.fair," Society fair when takes care o ... , regardless of what give back"
+sofrprv,Society.fair, Society fair when people from ... social status enjoy privileges
+sofrwrk,Society.fair, Society fair when hard-working people earn more than others
+pplhlp,Social.trust, Most of the time people helpfu ... tly looking out for themselves
+pplfair,Social.trust," Most people try to take advantage of you, or try to be fair"
+ppltrst,Social.trust, Most people can be trusted or you can't be too careful
+eisced,Socioeconomics," Highest level of education, ES - ISCED"
+eiscedf,Socioeconomics," Father's highest level of education, ES - ISCED"
+eiscedm,Socioeconomics," Mother's highest level of education, ES -  ISCED"
+eiscedp,Socioeconomics," Partner's highest level of education, ES - ISCED"
+grsplet,Socioeconomics, Which letter describes your gross pay
+hinctnta,Socioeconomics," Household's total net income, all sources"
+isco08,Socioeconomics," Occupation, ISCO08"
+isco08p,Socioeconomics," Occupation partner, ISCO08"
+netilet,Socioeconomics, Which letter describes your net pay
+occf14b,Socioeconomics, Father's occupation when respondent 14
+occm14b,Socioeconomics, Mother's occupation when respondent 14
