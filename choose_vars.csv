@@ -1,0 +1,57 @@
+﻿Var,Topic,Explain
+stfdem,Government performance, How satisfied with the way democracy works in country
+stfeco,Government performance, How satisfied with present state of economy in country
+stfedu,Government performance, State of education in country nowadays
+stfgov,Government performance, How satisfied with the national government
+stfhlth,Government performance, State of health services in country nowadays
+blgetmg,Discrimination, Belong to minority ethnic group in country
+brncntr,Discrimination, Born in country
+ctzcntr,Discrimination, Citizen of country
+dscrgrp,Discrimination, Member of a group discriminated against in this country
+facntr,Discrimination, Father born in country
+gndr,Discrimination, Gender
+mocntr,Discrimination, Mother born in country
+impdiff,Human Values, Important to try new and different things in life
+impenv,Human Values, Important to care for nature and environment
+impfree,Human Values, Important to make own decisions and be free
+impfun,Human Values, Important to seek fun and things that give pleasure
+imprich,Human Values," Important to be rich, have money and expensive things"
+impsafe,Human Values, Important to live in secure and safe surroundings
+imptrad,Human Values, Important to follow traditions and customs
+ipadvnt,Human Values, Important to seek adventures and have an exciting life
+ipbhprp,Human Values, Important to behave properly
+ipcrtiv,Human Values, Important to think new ideas and being creative
+ipeqopt,Human Values,Important that people are treated equally and have equal opportunities
+ipfrule,Human Values, Important to do what is told and follow rules
+ipgdtim,Human Values, Important to have a good time
+iphlppl,Human Values, Important to help people and care for others well-being
+iplylfr,Human Values, Important to be loyal to friends and devote to people close
+ipmodst,Human Values," Important to be humble and modest, not draw attention"
+iprspot,Human Values, Important to get respect from others
+ipshabt,Human Values, Important to show abilities and be admired
+ipstrgv,Human Values, Important that government is strong and ensures safety
+ipsuces,Human Values, Important to be successful and that people recognise achievements
+ipudrst,Human Values, Important to understand different people
+recexp,Opportunity Inequality, Influence decision to recruit in country: person's on-the-job experience
+recgndr,Opportunity Inequality, Influence decision to recruit in country: person's gender
+recimg,Opportunity Inequality, Influence decision to recruit in country: person has immigrant background
+recknow,Opportunity Inequality, Influence decision to recruit in country: person knows someone in organisation
+recskil,Opportunity Inequality, Influence decision to recruit in country: person's knowledge and skills
+sofrdst,Social Fairness, Society fair when income and wealth is equally distributed
+sofrpr,Social Fairness," Society fair when takes care of poor and in need, regardless of what give back"
+sofrprv,Social Fairness, Society fair when people from families with high social status enjoy privileges
+sofrwrk,Social Fairness, Society fair when hard-working people earn more than others
+pplhlp,Social Fairness, Most of the time people helpful or mostly looking out for themselves
+pplfair,Social Fairness," Most people try to take advantage of you, or try to be fair"
+ppltrst,Social Fairness, Most people can be trusted or you can't be too careful
+eisced,Socioeconomic Status," Highest level of education, ES – ISCED (1-7 levels)"
+eiscedf,Socioeconomic Status," Father's highest level of education, ES – ISCED (1-7 levels)"
+eiscedm,Socioeconomic Status," Mother's highest level of education, ES -  ISCED (1-7 levels)"
+eiscedp,Socioeconomic Status," Partner's highest level of education, ES – ISCED (1-7 levels)"
+grsplet,Socioeconomic Status, Which letter describes your gross pay (1-10 categories)
+hinctnta,Socioeconomic Status," Household's total net income, all sources (1-10 deciles)"
+isco08,Socioeconomic Status," Occupation, ISCO08 (1-9 ladders)"
+isco08p,Socioeconomic Status," Occupation partner, ISCO08 (1-9 ladders)"
+netilet,Socioeconomic Status, Which letter describes your net pay (1-10 categories)
+occf14b,Socioeconomic Status, Father's occupation when respondent were 14 (1-9 ladders)
+occm14b,Socioeconomic Status, Mother's occupation when respondent were 14 (1-9 ladders)
