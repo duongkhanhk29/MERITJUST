@@ -1,2 +1,2 @@
 # MERITJUST
-This repository is for the research project: Is Meritocracy Just? (MERITJUST). Please cite my paper using the link below if you use any of its materials. Duong, K. Is meritocracy just? New evidence from Boolean analysis and Machine learning. J Comput Soc Sc (2024). https://doi.org/10.1007/s42001-024-00287-2
+Meritocracy is not always just. Using Boolean analysis (true-false statements) and a Machine learning approach (in Computational Social Science), I explored this idea. The work is easy to read, designed for non-experts, and includes a technical section in the Appendix.
