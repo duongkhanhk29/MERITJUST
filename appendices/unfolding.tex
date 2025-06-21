@@ -1,0 +1,27 @@
+For ordinal data, such as the 5-point scale used in this study, a consistent constraint is typically imposed on rank differences, assuming equivalence between adjacent ranks. However, this study relaxes that constraint using transformations that preserve the rank-order relationship:
+\[
+\hat{d}_{ij} = f(\delta_{ij}) < f(\delta_{i'j'}) \iff \delta_{ij} < \delta_{i'j'},
+\]
+where $\hat{d}_{ij}$ represents the observed disparities in the ``folding space'' (ordinal), and $\delta_{ij}$ represents the ``unfolded'' disparities.
+
+The stress function, denoted as $\sigma^2(X, \hat{D})$, is defined as the squared difference between the observed disparities $\hat{d}_{ij}$ and the dissimilarities represented by the configuration matrix $X$:
+\[
+\sigma^2(X, \hat{D}) = \sum_{i<j} w_{ij} \left( \hat{d}_{ij} - d_{ij}(X) \right)^2.
+\]
+
+Furthermore, individual preferences must be considered, as they are a crucial aspect of survey data. Given an observed preference matrix with $n_r$ individuals and $n_c$ features, with elements $\hat{d}_{ij}$, two configuration matrices are constructed: one based on individuals, $X_r$, and one based on features, $X_c$. These configurations are combined using the unfolding technique, resulting in the following stress function:
+\[
+\sigma^2(X_r, X_c, \hat{D}) = \sum_{k=1}^K \sum_{i<j} w_{ij} \left( \hat{d}_{ij} - d_{ij}(X_r, X_c) \right)^2,
+\]
+where $d_{ij}(X_r, X_c)$ represents the Euclidean distance between the individual-based configuration $X_r$ and the feature-based configuration $X_c$, computed as:
+\[
+d_{ij}(X_r, X_c) = \sqrt{ \sum_{s=1}^{p} \left( x_{r, is} - x_{c, js} \right)^2 }.
+\]
+
+To minimize $\sigma^2(X_r, X_c, \hat{D})$, \citet{busing2005avoiding} suggest penalizing the stress function using the coefficient of variation. This results in the penalized-stress function:
+\[
+\sigma^2_\lambda (X_r, X_c, \hat{D}) \left( \frac{1}{n} \sum_{i=1}^{n} \left( 1 + \frac{\omega}{\nu^2(\hat{d}_i)} \right) \right),
+\]
+where $\nu$ denotes the coefficient of variation (the ratio of the standard deviation to the mean), and $\lambda$ and $\omega$ are two tuning parameters with default values set to $0.5$ and $1$, respectively.
+
+Minimizing this penalized stress function helps identify the optimal configuration that best captures the underlying relationships in the ordinal data, while also accounting for individual preferences and reducing the stress introduced by the unfolding constraints.

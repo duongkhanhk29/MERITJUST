@@ -1,0 +1,78 @@
+\documentclass[english,11pt,a4paper]{article}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\usepackage{pdflscape}
+\usepackage[figuresright]{rotating}
+\usepackage{appendix}
+
+\usepackage[a4paper,top=2cm,bottom=2cm,left=2cm,right=2cm,marginparwidth=1.75cm]{geometry}
+\usepackage[affil-it]{authblk}
+\usepackage{float}
+
+\usepackage[style=apa,natbib=true,backend=biber]{biblatex}
+\addbibresource{ref.bib}
+
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+
+% for typesetting mathematical formulas and symbols.
+\usepackage{amsmath}
+\usepackage{mathdots}
+\usepackage{yhmath}
+\usepackage{amssymb}
+
+\usepackage{epigraph}
+\usepackage{graphicx}
+
+% extra formatting commands for tables
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{threeparttablex}
+\usepackage{tabularray}
+\usepackage{dcolumn}
+\usepackage{tablefootnote}
+\usepackage{longtable}
+
+\usepackage{url}
+\urlstyle{same}
+
+\usepackage{amsthm}
+\usepackage{nameref}
+\theoremstyle{definition}
+\newtheorem{question}{Question}
+\newtheorem{assumption}{Assumption}
+\newtheorem*{premise*}{Premise}
+\newtheorem*{conclusion*}{Conclusion}
+
+\makeatletter
+\patchcmd{\thmhead}{(#3)}{\textbf{ #3}}{}{}
+\makeatother
+
+\usepackage{etoolbox}
+\makeatletter
+\pretocmd{\appendices}{
+	\let\addcontentsline\@gobblethree
+	\renewcommand{\thesection}{Appendix \arabic{section}}
+}{}{}
+\makeatother
+
+\begin{document}
+
+\title{Equality of Opportunity or Meritocracy: Is it Fair?}
+\author{}
+\date{}
+\maketitle
+
+\begin{abstract}
+	\noindent
+	\input{abstract}
+\end{abstract}
+
+\vspace{1em}
+\noindent\textbf{Keywords:} meritocracy, Boolean analysis, Machine Learning, fairness
+
+\vspace{0.5em}
+\noindent\textbf{JEL Codes:} D63, I24, Z13
+	
+\input{main}
+
+\end{document}

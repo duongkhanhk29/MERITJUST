@@ -1,0 +1,8 @@
+Machine learning techniques often lead to overfitting bias, which is where cross-validation becomes essential~\citep{chernozhukov2018double}. The fundamental principle of cross-validation is to address bias in parameter estimation by dividing the data into folds and estimating nuisance functions and the parameters of interest in separate samples. This approach helps alleviate overfitting and misspecification problems by minimizing the impact of any particular subset of data.
+
+The cross-validation for the Double Machine Learning procedure operates as follows. Assume a full sample $\{W_i\}_{i=1}^N$, where $W = (Y, D, X)$, and employ a Neyman-orthogonal score function $\psi(W; \theta, \eta)$. Then, generate a $K$-fold random partition $\{I_k\}_{k=1}^K$ of the observation indices $\{1, \ldots, N\}$, such that each fold $I_k$ has size approximately $N/K$.
+
+For each fold $I_k$, construct a machine learning estimator of $\eta_0$, denoted $\hat{\eta}_{0,k}$, using only the out-of-sample data $\{W_i\}_{i \notin I_k}$. Finally, the estimator for the causal parameter $\tilde{\theta}_0$ is obtained as the solution to the following equation:
+\[
+\frac{1}{N} \sum_{k=1}^K \sum_{i \in I_k} \psi(W_i; \tilde{\theta}_0, \hat{\eta}_{0,k}) = 0
+\]

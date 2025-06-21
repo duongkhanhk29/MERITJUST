@@ -1,0 +1,23 @@
+To mitigate the confounding influence and bolster causal inference, I employ Double Machine Learning as an orthogonality technique, as advocated by \citet{chernozhukov2018double}. This approach posits the existence of latent and intricate relationships, $l_0(X)$ and $m_0(X)$, between the confounding variables $X$ and the two focal variables, $D$ (representing meritocracy perception) and $Y$ (representing fairness beliefs), as described by the following structural equations:
+\[
+Y = D \theta_0 + l_0(X) + \varepsilon, \quad \mathbb{E}[\varepsilon | D, X] = 0
+\]
+\[
+D = m_0(X) + \rho, \quad \mathbb{E}[\rho | X] = 0
+\]
+
+The orthogonality principle underlying these methods~\citep{chernozhukov2018double,belloni2014inference} can be described as follows. The objective is to find a score function $\psi(W, \theta, \eta)$, where $W = (Y, D, X)$ and $\eta$ represents the nuisance parameter, such that:
+\[
+\mathbb{E}[\psi(W, \theta_0, \eta_0)] = 0, \quad \frac{\partial}{\partial \eta} \mathbb{E}[\psi(W, \theta_0, \eta_0)] = 0
+\]
+Here, $\psi(W; \theta, \eta)$ is defined as:
+\[
+\psi(W; \theta, \eta) = \left(Y - l(X) - \theta (D - m(X))\right)(D - m(X))
+\]
+and $\eta = (l, m)$ with population values $\eta_0 = (l_0, m_0)$. Specifically, $l_0(X) = \mathbb{E}[Y | X]$ and $m_0(X) = \mathbb{E}[D | X]$.
+
+The score function $\psi$, with $W = (Y, D, X)$, $\theta_0$ as the parameter of interest, and $\eta$ representing nuisance functions, satisfies the moment condition $\mathbb{E}[\psi(W, \theta_0, \eta_0)] = 0$, where $\theta_0$ (the target effect) is the unique solution. It also adheres to the Neyman orthogonality condition:
+\[
+\frac{\partial}{\partial \eta} \mathbb{E}[\psi(W, \theta_0, \eta_0)] = 0
+\]
+This condition ensures that the moment condition used for identifying and estimating $\theta_0$ remains unaffected by small perturbations of the nuisance function $\eta$ around $\eta_0$.

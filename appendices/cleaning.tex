@@ -1,0 +1,99 @@
+	\normalsize
+	
+	After obtaining the original dataset from ESS-9, a meticulous data-cleaning process was conducted. An ‘occupation ladder’ was created by extracting the first digit from the \texttt{isco08} and \texttt{isco08p} columns while excluding military-related occupations (values < 1000).
+	
+	\begin{longtable}{ll}
+		\toprule
+		\textbf{Value} & \textbf{Category of \texttt{isco08} and \texttt{isco08p}} \\
+		\midrule
+		0     & Armed forces occupations \\
+		100   & Commissioned armed forces officers \\
+		110   & Commissioned armed forces officers \\
+		200   & Non-commissioned armed forces officers \\
+		210   & Non-commissioned armed forces officers \\
+		300   & Armed forces occupations, other ranks \\
+		310   & Armed forces occupations, other ranks \\
+		1000  & Managers \\
+		$\cdots$ & $\cdots$ \\
+		2000  & Professionals \\
+		$\cdots$ & $\cdots$ \\
+		3000  & Technicians and associate professionals \\
+		$\cdots$ & $\cdots$ \\
+		4000  & Clerical support workers \\
+		$\cdots$ & $\cdots$ \\
+		5000  & Service and sales workers \\
+		$\cdots$ & $\cdots$ \\
+		6000  & Skilled agricultural, forestry and fishery workers \\
+		$\cdots$ & $\cdots$ \\
+		7000  & Craft and related trades workers \\
+		$\cdots$ & $\cdots$ \\
+		8000  & Plant and machine operators, and assemblers \\
+		$\cdots$ & $\cdots$ \\
+		9000  & Elementary occupations \\
+		$\cdots$ & $\cdots$ \\
+		66666 & Not applicable* - Missing Value \\
+		77777 & Refusal* - Missing Value \\
+		88888 & Don't know* - Missing Value \\
+		99999 & No answer* - Missing Value \\
+		\bottomrule
+	\end{longtable}
+	
+	After creating the occupation ladder by extracting the first digit and excluding military occupations, the scale of the variables \texttt{isco08}, \texttt{isco08p}, \texttt{occf14b}, and \texttt{occm14b} was reversed. This ensured that higher values corresponded to higher occupational status.
+	
+	\begin{longtable}{ll}
+		\toprule
+		\textbf{Value} & \textbf{Category of \texttt{occf14b} and \texttt{occm14b}} \\
+		\midrule
+		1  & Professional and technical occupations \\
+		2  & Higher administrator occupations \\
+		3  & Clerical occupations \\
+		4  & Sales occupations \\
+		5  & Service occupations \\
+		6  & Skilled worker \\
+		7  & Semi-skilled worker \\
+		8  & Unskilled worker \\
+		9  & Farm worker \\
+		66 & Not applicable* - Missing Value \\
+		77 & Refusal* - Missing Value \\
+		88 & Don't know* - Missing Value \\
+		99 & No answer* - Missing Value \\
+		\bottomrule
+	\end{longtable}
+	
+	Next, the education level category called “Other education level” was removed. This involved replacing the value 55 with NA in the variables \texttt{eisced}, \texttt{eiscedp}, \texttt{eiscedf}, and \texttt{eiscedm}.
+	
+	\begin{longtable}{ll}
+		\toprule
+		\textbf{Value} & \textbf{Category} \\
+		\midrule
+		0  & Not possible to harmonise into ES-ISCED \\
+		1  & ES-ISCED I, less than lower secondary \\
+		2  & ES-ISCED II, lower secondary \\
+		3  & ES-ISCED IIIb, lower tier upper secondary \\
+		4  & ES-ISCED IIIa, upper tier upper secondary \\
+		5  & ES-ISCED IV, advanced vocational, sub-degree \\
+		6  & ES-ISCED V1, lower tertiary education, BA level \\
+		7  & ES-ISCED V2, higher tertiary education, $\geq$ MA level \\
+		55 & Other \\
+		77 & Refusal* - Missing Value \\
+		88 & Don't know* - Missing Value \\
+		99 & No answer* - Missing Value \\
+		\bottomrule
+	\end{longtable}
+	
+	Binary variables were identified by checking which variables had exactly two unique values after excluding missing data. These were then standardized to the 0-1 binary format. For instance, the gender variable \texttt{gndr} was recoded as follows:
+	
+	\begin{longtable}{ll}
+		\toprule
+		\textbf{Value} & \textbf{Category} \\
+		\midrule
+		1 & Male \\
+		2 & Female \\
+		9 & No answer* - Missing Value \\
+		\bottomrule
+	\end{longtable}
+	
+	To address the presence of negative values in some variables (which are incompatible with certain modeling techniques), an offset transformation was applied. Specifically, the absolute value of the minimum (ignoring NA values) was added to all elements in those columns. 
+	
+	Finally, the cleaned dataset was saved to disk to ensure availability for future analysis. These cleaning procedures were intended to improve data quality, ensure analytical validity, and remove inconsistencies. By following these steps, the dataset is now prepared for statistical modeling and further examination, supporting more reliable and meaningful research findings.
+	

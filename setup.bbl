@@ -1,0 +1,4117 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{aas2016natural}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a0264e98f3c90edcfc96768a69b99808}{%
+           family={Aas},
+           familyi={A\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=481f5f63d90eca22e5960160a8d9e7e5}{%
+           family={Wasserman},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{d0bb96d60ff566b7f507000217d9dc33}
+      \strng{fullhash}{d0bb96d60ff566b7f507000217d9dc33}
+      \strng{bibnamehash}{d0bb96d60ff566b7f507000217d9dc33}
+      \strng{authorbibnamehash}{d0bb96d60ff566b7f507000217d9dc33}
+      \strng{authornamehash}{d0bb96d60ff566b7f507000217d9dc33}
+      \strng{authorfullhash}{d0bb96d60ff566b7f507000217d9dc33}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{journal of moral philosophy}
+      \field{number}{5}
+      \field{title}{Natural and social inequality: Disability and fair equality of opportunity}
+      \field{volume}{13}
+      \field{year}{2016}
+      \field{pages}{576\bibrangedash 601}
+      \range{pages}{26}
+    \endentry
+    \entry{bakhtiari2022diminished}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=84d2955e690bb2ebf19387ed19459d4d}{%
+           family={Bakhtiari},
+           familyi={B\bibinitperiod},
+           given={Elyas},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{84d2955e690bb2ebf19387ed19459d4d}
+      \strng{fullhash}{84d2955e690bb2ebf19387ed19459d4d}
+      \strng{bibnamehash}{84d2955e690bb2ebf19387ed19459d4d}
+      \strng{authorbibnamehash}{84d2955e690bb2ebf19387ed19459d4d}
+      \strng{authornamehash}{84d2955e690bb2ebf19387ed19459d4d}
+      \strng{authorfullhash}{84d2955e690bb2ebf19387ed19459d4d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of racial and ethnic health disparities}
+      \field{number}{6}
+      \field{title}{Diminished returns in Europe: socioeconomic status and ethno-racial health disparities across 30 countries in the European social survey}
+      \field{volume}{9}
+      \field{year}{2022}
+      \field{pages}{2412\bibrangedash 2426}
+      \range{pages}{15}
+    \endentry
+    \entry{ballantine2021sociology}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=09b92405afce4af0999fac94fc8e3544}{%
+           family={Ballantine},
+           familyi={B\bibinitperiod},
+           given={Jeanne},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40c6272b1cdfc74c2ab1aa50327417be}{%
+           family={Stuber},
+           familyi={S\bibinitperiod},
+           given={Jenny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c60e70afb8567bfbe93fdc4d5d543cd0}{%
+           family={Everitt},
+           familyi={E\bibinitperiod},
+           given={Judson},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{181486282a5ce727b8c94903dca0af7b}
+      \strng{fullhash}{1810f04a30e5b21e2a6f6cfafa7de3c4}
+      \strng{bibnamehash}{1810f04a30e5b21e2a6f6cfafa7de3c4}
+      \strng{authorbibnamehash}{1810f04a30e5b21e2a6f6cfafa7de3c4}
+      \strng{authornamehash}{181486282a5ce727b8c94903dca0af7b}
+      \strng{authorfullhash}{1810f04a30e5b21e2a6f6cfafa7de3c4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The sociology of education: A systematic analysis}
+      \field{year}{2021}
+    \endentry
+    \entry{bask2015cumulative}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5fe2ba8435431f58716293a4ef954691}{%
+           family={Bask},
+           familyi={B\bibinitperiod},
+           given={Miia},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19d2cc8ee806c424697ce5692106464b}{%
+           family={Bask},
+           familyi={B\bibinitperiod},
+           given={Mikael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science San Francisco, CA USA}%
+      }
+      \strng{namehash}{e4956b0affa739a432bb17bf4e1c73e3}
+      \strng{fullhash}{e4956b0affa739a432bb17bf4e1c73e3}
+      \strng{bibnamehash}{e4956b0affa739a432bb17bf4e1c73e3}
+      \strng{authorbibnamehash}{e4956b0affa739a432bb17bf4e1c73e3}
+      \strng{authornamehash}{e4956b0affa739a432bb17bf4e1c73e3}
+      \strng{authorfullhash}{e4956b0affa739a432bb17bf4e1c73e3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS one}
+      \field{number}{11}
+      \field{title}{Cumulative (dis) advantage and the Matthew effect in life-course analysis}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{e0142447}
+      \range{pages}{-1}
+    \endentry
+    \entry{becares2015understanding}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=85801c7d382eebe1a789a8df6961c57f}{%
+           family={Bécares},
+           familyi={B\bibinitperiod},
+           given={Laia},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=116b9278be92753e8101a47c2c0238a8}{%
+           family={Priest},
+           familyi={P\bibinitperiod},
+           given={Naomi},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science San Francisco, CA USA}%
+      }
+      \strng{namehash}{39ff460222bf9eea2b1f07669a5188b6}
+      \strng{fullhash}{39ff460222bf9eea2b1f07669a5188b6}
+      \strng{bibnamehash}{39ff460222bf9eea2b1f07669a5188b6}
+      \strng{authorbibnamehash}{39ff460222bf9eea2b1f07669a5188b6}
+      \strng{authornamehash}{39ff460222bf9eea2b1f07669a5188b6}
+      \strng{authorfullhash}{39ff460222bf9eea2b1f07669a5188b6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS one}
+      \field{number}{10}
+      \field{title}{Understanding the influence of race/ethnicity, gender, and class on inequalities in academic and non-academic outcomes among eighth-grade students: Findings from an intersectionality approach}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{e0141363}
+      \range{pages}{-1}
+    \endentry
+    \entry{belingheri2021twenty}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=14cb1945a69497ca818cff2ae6cd816c}{%
+           family={Belingheri},
+           familyi={B\bibinitperiod},
+           given={Paola},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8eb61d30cdec0b2d6689240a29b20be5}{%
+           family={Chiarello},
+           familyi={C\bibinitperiod},
+           given={Filippo},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5365cc9846ff1cce65d279c0feb9acc4}{%
+           family={Fronzetti\bibnamedelima Colladon},
+           familyi={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be92092cc703b0c8189ac65a31a08518}{%
+           family={Rovelli},
+           familyi={R\bibinitperiod},
+           given={Paola},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science San Francisco, CA USA}%
+      }
+      \strng{namehash}{ca4aa3cc48447e62cbd60ada6120993b}
+      \strng{fullhash}{e83518279d99c63d9aed9bcc93ac4eed}
+      \strng{bibnamehash}{e83518279d99c63d9aed9bcc93ac4eed}
+      \strng{authorbibnamehash}{e83518279d99c63d9aed9bcc93ac4eed}
+      \strng{authornamehash}{ca4aa3cc48447e62cbd60ada6120993b}
+      \strng{authorfullhash}{e83518279d99c63d9aed9bcc93ac4eed}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Plos one}
+      \field{number}{9}
+      \field{title}{Twenty years of gender equality research: A scoping review based on a new semantic indicator}
+      \field{volume}{16}
+      \field{year}{2021}
+      \field{pages}{e0256474}
+      \range{pages}{-1}
+    \endentry
+    \entry{belloni2014inference}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d36a7f02195c9b910441b02a96249f50}{%
+           family={Belloni},
+           familyi={B\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c75cbe2cefd1e532f636a50892605d06}{%
+           family={Chernozhukov},
+           familyi={C\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b38b53cdfa3ce5b62046f22663d5cc6f}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a8bffb0d311cf18c823ef1b2a70128cf}
+      \strng{fullhash}{06002aeef37ce59a9243e6999d2a067d}
+      \strng{bibnamehash}{06002aeef37ce59a9243e6999d2a067d}
+      \strng{authorbibnamehash}{06002aeef37ce59a9243e6999d2a067d}
+      \strng{authornamehash}{a8bffb0d311cf18c823ef1b2a70128cf}
+      \strng{authorfullhash}{06002aeef37ce59a9243e6999d2a067d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of Economic Studies}
+      \field{number}{2}
+      \field{title}{Inference on treatment effects after selection among high-dimensional controls}
+      \field{volume}{81}
+      \field{year}{2014}
+      \field{pages}{608\bibrangedash 650}
+      \range{pages}{43}
+    \endentry
+    \entry{bhugra2016social}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3177c93e3511737f46e9d281d345fdab}{%
+           family={Bhugra},
+           familyi={B\bibinitperiod},
+           given={Dinesh},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{3177c93e3511737f46e9d281d345fdab}
+      \strng{fullhash}{3177c93e3511737f46e9d281d345fdab}
+      \strng{bibnamehash}{3177c93e3511737f46e9d281d345fdab}
+      \strng{authorbibnamehash}{3177c93e3511737f46e9d281d345fdab}
+      \strng{authornamehash}{3177c93e3511737f46e9d281d345fdab}
+      \strng{authorfullhash}{3177c93e3511737f46e9d281d345fdab}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Review of Psychiatry}
+      \field{number}{4}
+      \field{title}{Social discrimination and social justice}
+      \field{volume}{28}
+      \field{year}{2016}
+      \field{pages}{336\bibrangedash 341}
+      \range{pages}{6}
+    \endentry
+    \entry{borg2005classical}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2ba91b8188a8fdddc0f388ccac52f1a7}{%
+           family={Borg},
+           familyi={B\bibinitperiod},
+           given={Ingwer},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1991adf27207b095759e94666455c5b}{%
+           family={Groenen},
+           familyi={G\bibinitperiod},
+           given={Patrick\bibnamedelima JF},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{ecfa3f14eb6cd2f26b28e4da24aefac9}
+      \strng{fullhash}{ecfa3f14eb6cd2f26b28e4da24aefac9}
+      \strng{bibnamehash}{ecfa3f14eb6cd2f26b28e4da24aefac9}
+      \strng{authorbibnamehash}{ecfa3f14eb6cd2f26b28e4da24aefac9}
+      \strng{authornamehash}{ecfa3f14eb6cd2f26b28e4da24aefac9}
+      \strng{authorfullhash}{ecfa3f14eb6cd2f26b28e4da24aefac9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Modern multidimensional scaling: Theory and applications}
+      \field{title}{Classical scaling}
+      \field{year}{2005}
+      \field{pages}{261\bibrangedash 267}
+      \range{pages}{7}
+    \endentry
+    \entry{bourdieu2017sociologie}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=66fa13ccac127aceaa40508629646509}{%
+           family={Bourdieu},
+           familyi={B\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Média Diffusion}%
+      }
+      \strng{namehash}{66fa13ccac127aceaa40508629646509}
+      \strng{fullhash}{66fa13ccac127aceaa40508629646509}
+      \strng{bibnamehash}{66fa13ccac127aceaa40508629646509}
+      \strng{authorbibnamehash}{66fa13ccac127aceaa40508629646509}
+      \strng{authornamehash}{66fa13ccac127aceaa40508629646509}
+      \strng{authorfullhash}{66fa13ccac127aceaa40508629646509}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sociologie générale, vol. 2. Cours au Collège de France (1983-1986)}
+      \field{year}{2017}
+    \endentry
+    \entry{buning1999propositional}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2c0318e14b664ba89dc7182e64a563d7}{%
+           family={Büning},
+           familyi={B\bibinitperiod},
+           given={Hans\bibnamedelima Kleine},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21413d7389d3e9e0a431700effe10f55}{%
+           family={Lettmann},
+           familyi={L\bibinitperiod},
+           given={Theodor},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{c0a197b65dd1ba14668a47ec4902ce4d}
+      \strng{fullhash}{c0a197b65dd1ba14668a47ec4902ce4d}
+      \strng{bibnamehash}{c0a197b65dd1ba14668a47ec4902ce4d}
+      \strng{authorbibnamehash}{c0a197b65dd1ba14668a47ec4902ce4d}
+      \strng{authornamehash}{c0a197b65dd1ba14668a47ec4902ce4d}
+      \strng{authorfullhash}{c0a197b65dd1ba14668a47ec4902ce4d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Propositional logic: deduction and algorithms}
+      \field{volume}{48}
+      \field{year}{1999}
+    \endentry
+    \entry{busing2005avoiding}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3b67704937a2de8e9189a5c53a6341b1}{%
+           family={Busing},
+           familyi={B\bibinitperiod},
+           given={Frank\bibnamedelima MTA},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88f4ed1e7122121cd87892fe265e6267}{%
+           family={Groenen},
+           familyi={G\bibinitperiod},
+           given={Patrick\bibnamedelima JK},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9acd42090ffbc0c39805d776eb169ddf}{%
+           family={Heiser},
+           familyi={H\bibinitperiod},
+           given={Willem\bibnamedelima J},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{ed00be59918bf023d30c32464e895405}
+      \strng{fullhash}{2822ca16f37aeec4beeadba15c3d265a}
+      \strng{bibnamehash}{2822ca16f37aeec4beeadba15c3d265a}
+      \strng{authorbibnamehash}{2822ca16f37aeec4beeadba15c3d265a}
+      \strng{authornamehash}{ed00be59918bf023d30c32464e895405}
+      \strng{authorfullhash}{2822ca16f37aeec4beeadba15c3d265a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{psychometrika}
+      \field{number}{1}
+      \field{title}{Avoiding degeneracy in multidimensional unfolding by penalizing on the coefficient of variation}
+      \field{volume}{70}
+      \field{year}{2005}
+      \field{pages}{71\bibrangedash 98}
+      \range{pages}{28}
+    \endentry
+    \entry{carter2016microsociologies}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff98833078cb9c21d8a0f970727f0adb}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{ff98833078cb9c21d8a0f970727f0adb}
+      \strng{fullhash}{ff98833078cb9c21d8a0f970727f0adb}
+      \strng{bibnamehash}{ff98833078cb9c21d8a0f970727f0adb}
+      \strng{authorbibnamehash}{ff98833078cb9c21d8a0f970727f0adb}
+      \strng{authornamehash}{ff98833078cb9c21d8a0f970727f0adb}
+      \strng{authorfullhash}{ff98833078cb9c21d8a0f970727f0adb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Handbook of contemporary sociological theory}
+      \field{title}{Microsociologies: Social exchange, trust, justice, and legitimacy}
+      \field{year}{2016}
+      \field{pages}{369\bibrangedash 386}
+      \range{pages}{18}
+    \endentry
+    \entry{chamorro2016talent}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=98de8c910ab1e0b541f7077b234ffed1}{%
+           family={Chamorro-Premuzic},
+           familyi={C\bibinithyphendelim P\bibinitperiod},
+           given={Tomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{98de8c910ab1e0b541f7077b234ffed1}
+      \strng{fullhash}{98de8c910ab1e0b541f7077b234ffed1}
+      \strng{bibnamehash}{98de8c910ab1e0b541f7077b234ffed1}
+      \strng{authorbibnamehash}{98de8c910ab1e0b541f7077b234ffed1}
+      \strng{authornamehash}{98de8c910ab1e0b541f7077b234ffed1}
+      \strng{authorfullhash}{98de8c910ab1e0b541f7077b234ffed1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Harvard Business Review}
+      \field{title}{Talent matters even more than people think}
+      \field{volume}{4}
+      \field{year}{2016}
+    \endentry
+    \entry{chernozhukov2018double}{misc}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=c75cbe2cefd1e532f636a50892605d06}{%
+           family={Chernozhukov},
+           familyi={C\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef4b66d2ca2dde47ec1b0afa98306775}{%
+           family={Chetverikov},
+           familyi={C\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3c2cc443c71254678269de10d61d61c}{%
+           family={Demirer},
+           familyi={D\bibinitperiod},
+           given={Mert},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e6b0ea4eee38822cdb0a4361e98752c}{%
+           family={Duflo},
+           familyi={D\bibinitperiod},
+           given={Esther},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b38b53cdfa3ce5b62046f22663d5cc6f}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c98526d9f1775b95096664c9cf0c633}{%
+           family={Newey},
+           familyi={N\bibinitperiod},
+           given={Whitney},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf615cc72310078c444f0c653a1fc5e7}{%
+           family={Robins},
+           familyi={R\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press Oxford, UK}%
+      }
+      \strng{namehash}{e8ad45c8076487daa445bfbeb4e02a04}
+      \strng{fullhash}{7892f5fdea2b46a0fb4e6c031c27c781}
+      \strng{bibnamehash}{7892f5fdea2b46a0fb4e6c031c27c781}
+      \strng{authorbibnamehash}{7892f5fdea2b46a0fb4e6c031c27c781}
+      \strng{authornamehash}{e8ad45c8076487daa445bfbeb4e02a04}
+      \strng{authorfullhash}{7892f5fdea2b46a0fb4e6c031c27c781}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Double/debiased machine learning for treatment and structural parameters}
+      \field{year}{2018}
+    \endentry
+    \entry{clavero2023idea}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e34772727d730b270e899f7de529622c}{%
+           family={Clavero\bibnamedelima García},
+           familyi={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Sergio\bibnamedelima R},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{e34772727d730b270e899f7de529622c}
+      \strng{fullhash}{e34772727d730b270e899f7de529622c}
+      \strng{bibnamehash}{e34772727d730b270e899f7de529622c}
+      \strng{authorbibnamehash}{e34772727d730b270e899f7de529622c}
+      \strng{authornamehash}{e34772727d730b270e899f7de529622c}
+      \strng{authorfullhash}{e34772727d730b270e899f7de529622c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophia}
+      \field{number}{3}
+      \field{title}{The idea of merit: Delineation and challenges}
+      \field{volume}{51}
+      \field{year}{2023}
+      \field{pages}{1175\bibrangedash 1191}
+      \range{pages}{17}
+    \endentry
+    \entry{de1980multidimensional}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f586d3752400159890d4bb17eae9da2b}{%
+           family={De\bibnamedelima Leeuw},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9acd42090ffbc0c39805d776eb169ddf}{%
+           family={Heiser},
+           familyi={H\bibinitperiod},
+           given={Willem\bibnamedelima J},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {North Holland, Amsterdam}%
+      }
+      \strng{namehash}{29710dc43c5a3e4b22fbd37121fd4dc7}
+      \strng{fullhash}{29710dc43c5a3e4b22fbd37121fd4dc7}
+      \strng{bibnamehash}{29710dc43c5a3e4b22fbd37121fd4dc7}
+      \strng{authorbibnamehash}{29710dc43c5a3e4b22fbd37121fd4dc7}
+      \strng{authornamehash}{29710dc43c5a3e4b22fbd37121fd4dc7}
+      \strng{authorfullhash}{29710dc43c5a3e4b22fbd37121fd4dc7}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Multivariate analysis}
+      \field{number}{1}
+      \field{title}{Multidimensional scaling with restrictions on the configuration}
+      \field{volume}{5}
+      \field{year}{1980}
+      \field{pages}{501\bibrangedash 522}
+      \range{pages}{22}
+    \endentry
+    \entry{dunlosky2020role}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=50f7b4de07a3cc1417efd684bef1c127}{%
+           family={Dunlosky},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8053945a09382037d18054f80324872a}{%
+           family={Badali},
+           familyi={B\bibinitperiod},
+           given={Sabrina},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=682ceb35e6904408ba051438f7f578c0}{%
+           family={Rivers},
+           familyi={R\bibinitperiod},
+           given={Michelle\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8cad027994baa846a4b107b07e45f37}{%
+           family={Rawson},
+           familyi={R\bibinitperiod},
+           given={Katherine\bibnamedelima A},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{be90ab4d175d40839b511f0eebf2fe6d}
+      \strng{fullhash}{cb0e70a0f99d1e2e864ade31e99c3d8c}
+      \strng{bibnamehash}{cb0e70a0f99d1e2e864ade31e99c3d8c}
+      \strng{authorbibnamehash}{cb0e70a0f99d1e2e864ade31e99c3d8c}
+      \strng{authornamehash}{be90ab4d175d40839b511f0eebf2fe6d}
+      \strng{authorfullhash}{cb0e70a0f99d1e2e864ade31e99c3d8c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educational Psychology Review}
+      \field{title}{The role of effort in understanding educational achievement: Objective effort as an explanatory construct versus effort as a student perception}
+      \field{volume}{32}
+      \field{year}{2020}
+      \field{pages}{1163\bibrangedash 1175}
+      \range{pages}{13}
+    \endentry
+    \entry{harlan2015climate}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=209a7987a4558b21c33e4f314e57e850}{%
+           family={Harlan},
+           familyi={H\bibinitperiod},
+           given={Sharon\bibnamedelima L},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c33e4eb3a0b4f5b044e62970834e8f99}{%
+           family={Pellow},
+           familyi={P\bibinitperiod},
+           given={David\bibnamedelima N},
+           giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8302ee779a2ca8c8643e964994bb6f69}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={J\bibnamedelima Timmons},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50c5aeb2a67cd174092ded761213c654}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={Shannon\bibnamedelima Elizabeth},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13dbcc294e82a7600cacf65bf13a8cf9}{%
+           family={Holt},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima G},
+           giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f9669f52c7d4340fd065c59b6f2d364}{%
+           family={Nagel},
+           familyi={N\bibinitperiod},
+           given={Joane},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7c7cec9db0cbd9ad47de6be06bd5e30}{%
+           family={Dunlap},
+           familyi={D\bibinitperiod},
+           given={Riley\bibnamedelima E},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a166dd204dcd551c1953cbcac3d28570}{%
+           family={Brulle},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press,}%
+      }
+      \strng{namehash}{83e30376c3679cb29a2d77d13e6dd222}
+      \strng{fullhash}{b233093ffa0a25e19368b34bbd0bd53a}
+      \strng{bibnamehash}{b233093ffa0a25e19368b34bbd0bd53a}
+      \strng{authorbibnamehash}{b233093ffa0a25e19368b34bbd0bd53a}
+      \strng{authornamehash}{83e30376c3679cb29a2d77d13e6dd222}
+      \strng{authorfullhash}{b233093ffa0a25e19368b34bbd0bd53a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Climate change and society: Sociological perspectives}
+      \field{title}{Climate justice and inequality}
+      \field{volume}{2015}
+      \field{year}{2015}
+      \field{pages}{127\bibrangedash 163}
+      \range{pages}{37}
+    \endentry
+    \entry{harris2021nature}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d38a24b2f9fae5e659b548d56d85e358}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Piper},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f6d32f1b708f2c0d970d3f78050304c}{%
+           family={Mireles-Rios},
+           familyi={M\bibinithyphendelim R\bibinitperiod},
+           given={Rebeca},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{cbc5eb207de7b4991b3a75d9d2094686}
+      \strng{fullhash}{cbc5eb207de7b4991b3a75d9d2094686}
+      \strng{bibnamehash}{cbc5eb207de7b4991b3a75d9d2094686}
+      \strng{authorbibnamehash}{cbc5eb207de7b4991b3a75d9d2094686}
+      \strng{authornamehash}{cbc5eb207de7b4991b3a75d9d2094686}
+      \strng{authorfullhash}{cbc5eb207de7b4991b3a75d9d2094686}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Encyclopedia of evolutionary psychological science}
+      \field{title}{Nature versus nurture}
+      \field{year}{2021}
+      \field{pages}{5347\bibrangedash 5349}
+      \range{pages}{3}
+    \endentry
+    \entry{hartigan1979algorithm}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9e9d4c15e872d6867ff4701b9221a46c}{%
+           family={Hartigan},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef609cdae78604b6acdb86e2d9ce99a2}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Manchek\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{110df48dda2f3685cb0dd8190733a5df}
+      \strng{fullhash}{110df48dda2f3685cb0dd8190733a5df}
+      \strng{bibnamehash}{110df48dda2f3685cb0dd8190733a5df}
+      \strng{authorbibnamehash}{110df48dda2f3685cb0dd8190733a5df}
+      \strng{authornamehash}{110df48dda2f3685cb0dd8190733a5df}
+      \strng{authorfullhash}{110df48dda2f3685cb0dd8190733a5df}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the royal statistical society. series c (applied statistics)}
+      \field{number}{1}
+      \field{title}{Algorithm AS 136: A k-means clustering algorithm}
+      \field{volume}{28}
+      \field{year}{1979}
+      \field{pages}{100\bibrangedash 108}
+      \range{pages}{9}
+    \endentry
+    \entry{hayes2013twilight}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=737dd8b0059acf1c5fbdc7183c28a272}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Crown}%
+      }
+      \strng{namehash}{737dd8b0059acf1c5fbdc7183c28a272}
+      \strng{fullhash}{737dd8b0059acf1c5fbdc7183c28a272}
+      \strng{bibnamehash}{737dd8b0059acf1c5fbdc7183c28a272}
+      \strng{authorbibnamehash}{737dd8b0059acf1c5fbdc7183c28a272}
+      \strng{authornamehash}{737dd8b0059acf1c5fbdc7183c28a272}
+      \strng{authorfullhash}{737dd8b0059acf1c5fbdc7183c28a272}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Twilight of the elites: America after meritocracy}
+      \field{year}{2013}
+    \endentry
+    \entry{heiser1993clustering}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9acd42090ffbc0c39805d776eb169ddf}{%
+           family={Heiser},
+           familyi={H\bibinitperiod},
+           given={Willem\bibnamedelima J},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9acd42090ffbc0c39805d776eb169ddf}
+      \strng{fullhash}{9acd42090ffbc0c39805d776eb169ddf}
+      \strng{bibnamehash}{9acd42090ffbc0c39805d776eb169ddf}
+      \strng{authorbibnamehash}{9acd42090ffbc0c39805d776eb169ddf}
+      \strng{authornamehash}{9acd42090ffbc0c39805d776eb169ddf}
+      \strng{authorfullhash}{9acd42090ffbc0c39805d776eb169ddf}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information and Classification: Concepts, Methods and Applications Proceedings of the 16th Annual Conference of the “Gesellschaft für Klassifikation eV” University of Dortmund, April 1--3, 1992}
+      \field{title}{Clustering in low-dimensional space}
+      \field{year}{1993}
+      \field{pages}{162\bibrangedash 173}
+      \range{pages}{12}
+    \endentry
+    \entry{hulle2018measuring}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=07f11b5cea74b63731def50be5db31b6}{%
+           family={Hülle},
+           familyi={H\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4626785599113746bbc1e6c16d56384a}{%
+           family={Liebig},
+           familyi={L\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19371187a571c80bd12eab80d2abba34}{%
+           family={May},
+           familyi={M\bibinitperiod},
+           given={Meike\bibnamedelima Janina},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5bc1827076ba641e35b160ee05059801}
+      \strng{fullhash}{0968d7136e86741d6675a5ea1a0cdda8}
+      \strng{bibnamehash}{0968d7136e86741d6675a5ea1a0cdda8}
+      \strng{authorbibnamehash}{0968d7136e86741d6675a5ea1a0cdda8}
+      \strng{authornamehash}{5bc1827076ba641e35b160ee05059801}
+      \strng{authorfullhash}{0968d7136e86741d6675a5ea1a0cdda8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Social Indicators Research}
+      \field{title}{Measuring attitudes toward distributive justice: The basic social justice orientations scale}
+      \field{volume}{136}
+      \field{year}{2018}
+      \field{pages}{663\bibrangedash 692}
+      \range{pages}{30}
+    \endentry
+    \entry{jin2020meritocracy}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1fde11267c132a353cdb98fee86a22ca}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7eb2c7b8783bbcda785f1b12a2320507}{%
+           family={Ball},
+           familyi={B\bibinitperiod},
+           given={Stephen\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{e2962c2e442a8ed1e3a91bfbb20e29df}
+      \strng{fullhash}{e2962c2e442a8ed1e3a91bfbb20e29df}
+      \strng{bibnamehash}{e2962c2e442a8ed1e3a91bfbb20e29df}
+      \strng{authorbibnamehash}{e2962c2e442a8ed1e3a91bfbb20e29df}
+      \strng{authornamehash}{e2962c2e442a8ed1e3a91bfbb20e29df}
+      \strng{authorfullhash}{e2962c2e442a8ed1e3a91bfbb20e29df}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British Journal of Sociology of Education}
+      \field{number}{1}
+      \field{title}{Meritocracy, social mobility and a new form of class domination}
+      \field{volume}{41}
+      \field{year}{2020}
+      \field{pages}{64\bibrangedash 79}
+      \range{pages}{16}
+    \endentry
+    \entry{khan2013saying}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=423355d58cb7df20977c982465aaffbf}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Shamus},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=98c1c8003e3efa33c99461eda56274f0}{%
+           family={Jerolmack},
+           familyi={J\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{f6a09af68cf7e438d63f4dbb061e42f6}
+      \strng{fullhash}{f6a09af68cf7e438d63f4dbb061e42f6}
+      \strng{bibnamehash}{f6a09af68cf7e438d63f4dbb061e42f6}
+      \strng{authorbibnamehash}{f6a09af68cf7e438d63f4dbb061e42f6}
+      \strng{authornamehash}{f6a09af68cf7e438d63f4dbb061e42f6}
+      \strng{authorfullhash}{f6a09af68cf7e438d63f4dbb061e42f6}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Sociological Quarterly}
+      \field{number}{1}
+      \field{title}{Saying meritocracy and doing privilege}
+      \field{volume}{54}
+      \field{year}{2013}
+      \field{pages}{9\bibrangedash 19}
+      \range{pages}{11}
+    \endentry
+    \entry{knight2013luck}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6da944ab813e3d6afa9be048c5dac487}{%
+           family={Knight},
+           familyi={K\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{6da944ab813e3d6afa9be048c5dac487}
+      \strng{fullhash}{6da944ab813e3d6afa9be048c5dac487}
+      \strng{bibnamehash}{6da944ab813e3d6afa9be048c5dac487}
+      \strng{authorbibnamehash}{6da944ab813e3d6afa9be048c5dac487}
+      \strng{authornamehash}{6da944ab813e3d6afa9be048c5dac487}
+      \strng{authorfullhash}{6da944ab813e3d6afa9be048c5dac487}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophy compass}
+      \field{number}{10}
+      \field{title}{Luck egalitarianism}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{pages}{924\bibrangedash 934}
+      \range{pages}{11}
+    \endentry
+    \entry{mair2015unidimensional}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=215445b393eea0f8b647d504dddc86ac}{%
+           family={Mair},
+           familyi={M\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f586d3752400159890d4bb17eae9da2b}{%
+           family={De\bibnamedelima Leeuw},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c3e1e577d991f3ec793ccb536a60e25a}
+      \strng{fullhash}{c3e1e577d991f3ec793ccb536a60e25a}
+      \strng{bibnamehash}{c3e1e577d991f3ec793ccb536a60e25a}
+      \strng{authorbibnamehash}{c3e1e577d991f3ec793ccb536a60e25a}
+      \strng{authornamehash}{c3e1e577d991f3ec793ccb536a60e25a}
+      \strng{authorfullhash}{c3e1e577d991f3ec793ccb536a60e25a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wiley StatsRef: Statistics Reference Online}
+      \field{title}{Unidimensional scaling}
+      \field{volume}{630}
+      \field{year}{2015}
+    \endentry
+    \entry{mark2020belief}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eecbdbff1564f27ff0cfabb6cd9eb8a3}{%
+           family={Mark},
+           familyi={M\bibinitperiod},
+           given={Clifton},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Princeton, NJ, USA}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{eecbdbff1564f27ff0cfabb6cd9eb8a3}
+      \strng{fullhash}{eecbdbff1564f27ff0cfabb6cd9eb8a3}
+      \strng{bibnamehash}{eecbdbff1564f27ff0cfabb6cd9eb8a3}
+      \strng{authorbibnamehash}{eecbdbff1564f27ff0cfabb6cd9eb8a3}
+      \strng{authornamehash}{eecbdbff1564f27ff0cfabb6cd9eb8a3}
+      \strng{authorfullhash}{eecbdbff1564f27ff0cfabb6cd9eb8a3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A belief in meritocracy is not only false: it’s bad for you}
+      \field{year}{2020}
+    \endentry
+    \entry{markovits2019meritocracy}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b423b159112d24079063ee9258569677}{%
+           family={Markovits},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin UK}%
+      }
+      \strng{namehash}{b423b159112d24079063ee9258569677}
+      \strng{fullhash}{b423b159112d24079063ee9258569677}
+      \strng{bibnamehash}{b423b159112d24079063ee9258569677}
+      \strng{authorbibnamehash}{b423b159112d24079063ee9258569677}
+      \strng{authornamehash}{b423b159112d24079063ee9258569677}
+      \strng{authorfullhash}{b423b159112d24079063ee9258569677}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The meritocracy trap}
+      \field{year}{2019}
+    \endentry
+    \entry{marzano2000transforming}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9724569ecc2174f24bf5014413535644}{%
+           family={Marzano},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ERIC}%
+      }
+      \strng{namehash}{9724569ecc2174f24bf5014413535644}
+      \strng{fullhash}{9724569ecc2174f24bf5014413535644}
+      \strng{bibnamehash}{9724569ecc2174f24bf5014413535644}
+      \strng{authorbibnamehash}{9724569ecc2174f24bf5014413535644}
+      \strng{authornamehash}{9724569ecc2174f24bf5014413535644}
+      \strng{authorfullhash}{9724569ecc2174f24bf5014413535644}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Transforming Classroom Grading.}
+      \field{year}{2000}
+    \endentry
+    \entry{meyer2022talents}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c01cf377c150031b635a1cf1f36b744e}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={Kirsten},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{c01cf377c150031b635a1cf1f36b744e}
+      \strng{fullhash}{c01cf377c150031b635a1cf1f36b744e}
+      \strng{bibnamehash}{c01cf377c150031b635a1cf1f36b744e}
+      \strng{authorbibnamehash}{c01cf377c150031b635a1cf1f36b744e}
+      \strng{authornamehash}{c01cf377c150031b635a1cf1f36b744e}
+      \strng{authorfullhash}{c01cf377c150031b635a1cf1f36b744e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Talents and Distributive Justice}
+      \field{title}{Talents, abilities and educational justice}
+      \field{year}{2022}
+      \field{pages}{34\bibrangedash 44}
+      \range{pages}{11}
+    \endentry
+    \entry{meyers2013talent}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=033cca5e53f8a78bf94037af37fae0f4}{%
+           family={Meyers},
+           familyi={M\bibinitperiod},
+           given={M\bibnamedelima Christina},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=159b4e05e70ababbefd8ad0fd41eeb03}{%
+           family={Van\bibnamedelima Woerkom},
+           familyi={V\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Marianne},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2dff9d23f2c3fa32f59e72dc3f82fb8}{%
+           family={Dries},
+           familyi={D\bibinitperiod},
+           given={Nicky},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{31bb9df982c45edb90139e3e239d5e59}
+      \strng{fullhash}{ab25c39605880b38fe1fce87d8610a28}
+      \strng{bibnamehash}{ab25c39605880b38fe1fce87d8610a28}
+      \strng{authorbibnamehash}{ab25c39605880b38fe1fce87d8610a28}
+      \strng{authornamehash}{31bb9df982c45edb90139e3e239d5e59}
+      \strng{authorfullhash}{ab25c39605880b38fe1fce87d8610a28}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human Resource Management Review}
+      \field{number}{4}
+      \field{title}{Talent—Innate or acquired? Theoretical considerations and their implications for talent management}
+      \field{volume}{23}
+      \field{year}{2013}
+      \field{pages}{305\bibrangedash 321}
+      \range{pages}{17}
+    \endentry
+    \entry{mijs2021paradox}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d3f8cff860ef9809d3fba054eb6036b6}{%
+           family={Mijs},
+           familyi={M\bibinitperiod},
+           given={Jonathan\bibnamedelima JB},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{fullhash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{bibnamehash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{authorbibnamehash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{authornamehash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{authorfullhash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Socio-Economic Review}
+      \field{number}{1}
+      \field{title}{The paradox of inequality: Income inequality and belief in meritocracy go hand in hand}
+      \field{volume}{19}
+      \field{year}{2021}
+      \field{pages}{7\bibrangedash 35}
+      \range{pages}{29}
+    \endentry
+    \entry{mijs2022earning}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d3f8cff860ef9809d3fba054eb6036b6}{%
+           family={Mijs},
+           familyi={M\bibinitperiod},
+           given={Jonathan\bibnamedelima JB},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{fullhash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{bibnamehash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{authorbibnamehash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{authornamehash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{authorfullhash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Talents and Distributive Justice}
+      \field{title}{Earning rent with your talent: Modern-day inequality rests on the power to define, transfer and institutionalize talent}
+      \field{year}{2022}
+      \field{pages}{45\bibrangedash 53}
+      \range{pages}{9}
+    \endentry
+    \entry{montag2018nature}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=345ee4795677c5c5750d25dfaccd668a}{%
+           family={Montag},
+           familyi={M\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a13aff922a90d2858398db578827d4d}{%
+           family={Hahn},
+           familyi={H\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag Heidelberg}%
+      }
+      \strng{namehash}{acc6276313a6517180c0d0a2caa73b59}
+      \strng{fullhash}{acc6276313a6517180c0d0a2caa73b59}
+      \strng{bibnamehash}{acc6276313a6517180c0d0a2caa73b59}
+      \strng{authorbibnamehash}{acc6276313a6517180c0d0a2caa73b59}
+      \strng{authornamehash}{acc6276313a6517180c0d0a2caa73b59}
+      \strng{authorfullhash}{acc6276313a6517180c0d0a2caa73b59}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Encyclopedia of personality and individual differences}
+      \field{title}{Nature-nurture debate}
+      \field{year}{2018}
+    \endentry
+    \entry{murtagh2014ward}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b451253f9003290ac47fe9da636f3486}{%
+           family={Murtagh},
+           familyi={M\bibinitperiod},
+           given={Fionn},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5993ce00a3c0c0a36096f597c61087c4}{%
+           family={Legendre},
+           familyi={L\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9ebf67673fd8b61513ecdc479ded6cde}
+      \strng{fullhash}{9ebf67673fd8b61513ecdc479ded6cde}
+      \strng{bibnamehash}{9ebf67673fd8b61513ecdc479ded6cde}
+      \strng{authorbibnamehash}{9ebf67673fd8b61513ecdc479ded6cde}
+      \strng{authornamehash}{9ebf67673fd8b61513ecdc479ded6cde}
+      \strng{authorfullhash}{9ebf67673fd8b61513ecdc479ded6cde}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of classification}
+      \field{title}{Ward’s hierarchical agglomerative clustering method: which algorithms implement Ward’s criterion?}
+      \field{volume}{31}
+      \field{year}{2014}
+      \field{pages}{274\bibrangedash 295}
+      \range{pages}{22}
+    \endentry
+    \entry{nahai2013meritocracy}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8550cde3699087e3078d70d71b02672c}{%
+           family={Nahai},
+           familyi={N\bibinitperiod},
+           given={Rebekah\bibnamedelima N},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{8550cde3699087e3078d70d71b02672c}
+      \strng{fullhash}{8550cde3699087e3078d70d71b02672c}
+      \strng{bibnamehash}{8550cde3699087e3078d70d71b02672c}
+      \strng{authorbibnamehash}{8550cde3699087e3078d70d71b02672c}
+      \strng{authornamehash}{8550cde3699087e3078d70d71b02672c}
+      \strng{authorfullhash}{8550cde3699087e3078d70d71b02672c}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Oxford Review of Education}
+      \field{number}{5}
+      \field{title}{Is meritocracy fair? A qualitative case study of admissions at the University of Oxford}
+      \field{volume}{39}
+      \field{year}{2013}
+      \field{pages}{681\bibrangedash 701}
+      \range{pages}{21}
+    \endentry
+    \entry{plattner2021tyranny}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a52c4a47ffb92ffb9a9b300acc137949}{%
+           family={Plattner},
+           familyi={P\bibinitperiod},
+           given={Marc\bibnamedelima F},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Johns Hopkins University Press}%
+      }
+      \strng{namehash}{a52c4a47ffb92ffb9a9b300acc137949}
+      \strng{fullhash}{a52c4a47ffb92ffb9a9b300acc137949}
+      \strng{bibnamehash}{a52c4a47ffb92ffb9a9b300acc137949}
+      \strng{authorbibnamehash}{a52c4a47ffb92ffb9a9b300acc137949}
+      \strng{authornamehash}{a52c4a47ffb92ffb9a9b300acc137949}
+      \strng{authorfullhash}{a52c4a47ffb92ffb9a9b300acc137949}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Democracy}
+      \field{number}{1}
+      \field{title}{The tyranny of merit: What's become of the common good? By Michael J. Sandel}
+      \field{volume}{32}
+      \field{year}{2021}
+      \field{pages}{155\bibrangedash 159}
+      \range{pages}{5}
+    \endentry
+    \entry{ries2011lean}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ae634b261ee7bc5f734840abf4408e1}{%
+           family={Ries},
+           familyi={R\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Crown Currency}%
+      }
+      \strng{namehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{fullhash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{bibnamehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{authorbibnamehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{authornamehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{authorfullhash}{3ae634b261ee7bc5f734840abf4408e1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The lean startup: How today's entrepreneurs use continuous innovation to create radically successful businesses}
+      \field{year}{2011}
+    \endentry
+    \entry{rowlingson2011deserving}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cdf6624fccb75473212121627ee63501}{%
+           family={Rowlingson},
+           familyi={R\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dafa9289ab9b255a1e9250f4e3b962f9}{%
+           family={Connor},
+           familyi={C\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a5d28eb2e5b0670e25b389435316a17f}
+      \strng{fullhash}{a5d28eb2e5b0670e25b389435316a17f}
+      \strng{bibnamehash}{a5d28eb2e5b0670e25b389435316a17f}
+      \strng{authorbibnamehash}{a5d28eb2e5b0670e25b389435316a17f}
+      \strng{authornamehash}{a5d28eb2e5b0670e25b389435316a17f}
+      \strng{authorfullhash}{a5d28eb2e5b0670e25b389435316a17f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Social Policy}
+      \field{number}{3}
+      \field{title}{The ‘deserving’rich? Inequality, morality and social policy}
+      \field{volume}{40}
+      \field{year}{2011}
+      \field{pages}{437\bibrangedash 452}
+      \range{pages}{16}
+    \endentry
+    \entry{ruger2020social}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ddc75ac9c2a0792c5102e99172cc639b}{%
+           family={Ruger},
+           familyi={R\bibinitperiod},
+           given={Jennifer\bibnamedelima Prah},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {British Medical Journal Publishing Group}%
+      }
+      \strng{namehash}{ddc75ac9c2a0792c5102e99172cc639b}
+      \strng{fullhash}{ddc75ac9c2a0792c5102e99172cc639b}
+      \strng{bibnamehash}{ddc75ac9c2a0792c5102e99172cc639b}
+      \strng{authorbibnamehash}{ddc75ac9c2a0792c5102e99172cc639b}
+      \strng{authornamehash}{ddc75ac9c2a0792c5102e99172cc639b}
+      \strng{authorfullhash}{ddc75ac9c2a0792c5102e99172cc639b}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{bmj}
+      \field{title}{Social justice as a foundation for democracy and health}
+      \field{volume}{371}
+      \field{year}{2020}
+    \endentry
+    \entry{sandel2020tyranny}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fdf1c698030d55e4f99fbe10740a0f4d}{%
+           family={Sandel},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin UK}%
+      }
+      \strng{namehash}{fdf1c698030d55e4f99fbe10740a0f4d}
+      \strng{fullhash}{fdf1c698030d55e4f99fbe10740a0f4d}
+      \strng{bibnamehash}{fdf1c698030d55e4f99fbe10740a0f4d}
+      \strng{authorbibnamehash}{fdf1c698030d55e4f99fbe10740a0f4d}
+      \strng{authornamehash}{fdf1c698030d55e4f99fbe10740a0f4d}
+      \strng{authorfullhash}{fdf1c698030d55e4f99fbe10740a0f4d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The tyranny of merit: What's become of the common good?}
+      \field{year}{2020}
+    \endentry
+    \entry{segall2013equality}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b591d2d406f72a792efb7a9958661079}{%
+           family={Segall},
+           familyi={S\bibinitperiod},
+           given={Shlomi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {OUP Oxford}%
+      }
+      \strng{namehash}{b591d2d406f72a792efb7a9958661079}
+      \strng{fullhash}{b591d2d406f72a792efb7a9958661079}
+      \strng{bibnamehash}{b591d2d406f72a792efb7a9958661079}
+      \strng{authorbibnamehash}{b591d2d406f72a792efb7a9958661079}
+      \strng{authornamehash}{b591d2d406f72a792efb7a9958661079}
+      \strng{authorfullhash}{b591d2d406f72a792efb7a9958661079}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Equality and opportunity}
+      \field{year}{2013}
+    \endentry
+    \entry{shermer2017secret}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=01e5e8055941a79e7b8968b3818d8f1c}{%
+           family={Shermer},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Scientific American}%
+      }
+      \strng{namehash}{01e5e8055941a79e7b8968b3818d8f1c}
+      \strng{fullhash}{01e5e8055941a79e7b8968b3818d8f1c}
+      \strng{bibnamehash}{01e5e8055941a79e7b8968b3818d8f1c}
+      \strng{authorbibnamehash}{01e5e8055941a79e7b8968b3818d8f1c}
+      \strng{authornamehash}{01e5e8055941a79e7b8968b3818d8f1c}
+      \strng{authorfullhash}{01e5e8055941a79e7b8968b3818d8f1c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific American}
+      \field{number}{5}
+      \field{title}{What is the secret of success?}
+      \field{volume}{317}
+      \field{year}{2017}
+      \field{pages}{80\bibrangedash 80}
+      \range{pages}{1}
+    \endentry
+    \entry{soares2017meritocracy}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e0e81367dc69db4e7ae67cb9f90648a7}{%
+           family={Soares},
+           familyi={S\bibinitperiod},
+           given={Joseph\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{e0e81367dc69db4e7ae67cb9f90648a7}
+      \strng{fullhash}{e0e81367dc69db4e7ae67cb9f90648a7}
+      \strng{bibnamehash}{e0e81367dc69db4e7ae67cb9f90648a7}
+      \strng{authorbibnamehash}{e0e81367dc69db4e7ae67cb9f90648a7}
+      \strng{authornamehash}{e0e81367dc69db4e7ae67cb9f90648a7}
+      \strng{authorfullhash}{e0e81367dc69db4e7ae67cb9f90648a7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ethnic and Racial Studies}
+      \field{number}{13}
+      \field{title}{Meritocracy dismissed}
+      \field{volume}{40}
+      \field{year}{2017}
+      \field{pages}{2300\bibrangedash 2307}
+      \range{pages}{8}
+    \endentry
+    \entry{starmans2017people}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f93dbf17196fe91647286a01fb0c2517}{%
+           family={Starmans},
+           familyi={S\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f6b5b7b94f160900d53490b9ff29ede}{%
+           family={Sheskin},
+           familyi={S\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea3ef05bf24aa259513c3414c4eb0007}{%
+           family={Bloom},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group UK London}%
+      }
+      \strng{namehash}{46b8aa04837f27d23f3bf8f26a2335fb}
+      \strng{fullhash}{c4c5f02de6bf87a9686b2c7c986d3578}
+      \strng{bibnamehash}{c4c5f02de6bf87a9686b2c7c986d3578}
+      \strng{authorbibnamehash}{c4c5f02de6bf87a9686b2c7c986d3578}
+      \strng{authornamehash}{46b8aa04837f27d23f3bf8f26a2335fb}
+      \strng{authorfullhash}{c4c5f02de6bf87a9686b2c7c986d3578}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Human Behaviour}
+      \field{number}{4}
+      \field{title}{Why people prefer unequal societies}
+      \field{volume}{1}
+      \field{year}{2017}
+      \field{pages}{0082}
+      \range{pages}{1}
+    \endentry
+    \entry{swift1997meritocratic}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b347e2682543a1dfff85fc1f17f15912}{%
+           family={Swift},
+           familyi={S\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e241357709c101235cae3e419e4baff}{%
+           family={Marshall},
+           familyi={M\bibinitperiod},
+           given={Gordon},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{77678f8e38de55b39df705dc4e390574}
+      \strng{fullhash}{77678f8e38de55b39df705dc4e390574}
+      \strng{bibnamehash}{77678f8e38de55b39df705dc4e390574}
+      \strng{authorbibnamehash}{77678f8e38de55b39df705dc4e390574}
+      \strng{authornamehash}{77678f8e38de55b39df705dc4e390574}
+      \strng{authorfullhash}{77678f8e38de55b39df705dc4e390574}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Policy Studies}
+      \field{number}{1}
+      \field{title}{Meritocratic equality of opportunity: Economic efficiency, social justice, or both?}
+      \field{volume}{18}
+      \field{year}{1997}
+      \field{pages}{35\bibrangedash 48}
+      \range{pages}{14}
+    \endentry
+    \entry{tavsner2022time}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cc583f5b803ed716e5fc70cdb94ea36f}{%
+           family={Tašner},
+           familyi={T\bibinitperiod},
+           given={Veronika},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f07f0ccd61831d1bef3daf3752496577}{%
+           family={Gaber},
+           familyi={G\bibinitperiod},
+           given={Slavko},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage UK: London, England}%
+      }
+      \strng{namehash}{1b2be8e44d5ec366ec18f88ae4d34d46}
+      \strng{fullhash}{1b2be8e44d5ec366ec18f88ae4d34d46}
+      \strng{bibnamehash}{1b2be8e44d5ec366ec18f88ae4d34d46}
+      \strng{authorbibnamehash}{1b2be8e44d5ec366ec18f88ae4d34d46}
+      \strng{authornamehash}{1b2be8e44d5ec366ec18f88ae4d34d46}
+      \strng{authorfullhash}{1b2be8e44d5ec366ec18f88ae4d34d46}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Theory and Research in Education}
+      \field{number}{2}
+      \field{title}{Is it time for a new meritocracy?}
+      \field{volume}{20}
+      \field{year}{2022}
+      \field{pages}{182\bibrangedash 192}
+      \range{pages}{11}
+    \endentry
+    \entry{tibshirani2001estimating}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=88eea600247d798f8b2ce0b2dc614492}{%
+           family={Tibshirani},
+           familyi={T\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3b10303fca503b067ad4a0eee4df006}{%
+           family={Walther},
+           familyi={W\bibinitperiod},
+           given={Guenther},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0cb8fe4210baa81c4b0e67913b4d2768}{%
+           family={Hastie},
+           familyi={H\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{68e88ae6f3dba7e3a64834f75879bfe0}
+      \strng{fullhash}{86e3f28d874cfbbbcbbd9be64b00440d}
+      \strng{bibnamehash}{86e3f28d874cfbbbcbbd9be64b00440d}
+      \strng{authorbibnamehash}{86e3f28d874cfbbbcbbd9be64b00440d}
+      \strng{authornamehash}{68e88ae6f3dba7e3a64834f75879bfe0}
+      \strng{authorfullhash}{86e3f28d874cfbbbcbbd9be64b00440d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the royal statistical society: series b (statistical methodology)}
+      \field{number}{2}
+      \field{title}{Estimating the number of clusters in a data set via the gap statistic}
+      \field{volume}{63}
+      \field{year}{2001}
+      \field{pages}{411\bibrangedash 423}
+      \range{pages}{13}
+    \endentry
+    \entry{tittler2020personal}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6db02c1e03e597b61ae8defb99bdb553}{%
+           family={Tittler},
+           familyi={T\bibinitperiod},
+           given={Meredith\bibnamedelima V},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1696645d6297f2c62cba1dc7e56cd2e}{%
+           family={Lannin},
+           familyi={L\bibinitperiod},
+           given={Daniel\bibnamedelima G},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a808f1aaf409e47b38d1ac46130d70fd}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Suejung},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=039c9f21b826dc07e98e1a12e0962c53}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Lukas\bibnamedelima J},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0ba25d24e07afef72470c61de3d6b546}
+      \strng{fullhash}{a1792f1ba1e3c510fd9bc6dd4e9c05f6}
+      \strng{bibnamehash}{a1792f1ba1e3c510fd9bc6dd4e9c05f6}
+      \strng{authorbibnamehash}{a1792f1ba1e3c510fd9bc6dd4e9c05f6}
+      \strng{authornamehash}{0ba25d24e07afef72470c61de3d6b546}
+      \strng{authorfullhash}{a1792f1ba1e3c510fd9bc6dd4e9c05f6}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Current Psychology}
+      \field{title}{Why personal values matter: Values, colorblindness, and social justice action orientation}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+    \endentry
+    \entry{trautmann2023procedural}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d8765cab9d6255c375f703cb87837ab7}{%
+           family={Trautmann},
+           familyi={T\bibinitperiod},
+           given={Stefan\bibnamedelima T},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{d8765cab9d6255c375f703cb87837ab7}
+      \strng{fullhash}{d8765cab9d6255c375f703cb87837ab7}
+      \strng{bibnamehash}{d8765cab9d6255c375f703cb87837ab7}
+      \strng{authorbibnamehash}{d8765cab9d6255c375f703cb87837ab7}
+      \strng{authornamehash}{d8765cab9d6255c375f703cb87837ab7}
+      \strng{authorfullhash}{d8765cab9d6255c375f703cb87837ab7}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Surveys}
+      \field{number}{5}
+      \field{title}{Procedural fairness and equality of opportunity}
+      \field{volume}{37}
+      \field{year}{2023}
+      \field{pages}{1697\bibrangedash 1714}
+      \range{pages}{18}
+    \endentry
+    \entry{tsay2016privileging}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b802cc0c66cae74551aeedcc65c41a7a}{%
+           family={Tsay},
+           familyi={T\bibinitperiod},
+           given={Chia-Jung},
+           giveni={C\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{b802cc0c66cae74551aeedcc65c41a7a}
+      \strng{fullhash}{b802cc0c66cae74551aeedcc65c41a7a}
+      \strng{bibnamehash}{b802cc0c66cae74551aeedcc65c41a7a}
+      \strng{authorbibnamehash}{b802cc0c66cae74551aeedcc65c41a7a}
+      \strng{authornamehash}{b802cc0c66cae74551aeedcc65c41a7a}
+      \strng{authorfullhash}{b802cc0c66cae74551aeedcc65c41a7a}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Personality and Social Psychology Bulletin}
+      \field{number}{1}
+      \field{title}{Privileging naturals over strivers: The costs of the naturalness bias}
+      \field{volume}{42}
+      \field{year}{2016}
+      \field{pages}{40\bibrangedash 53}
+      \range{pages}{14}
+    \endentry
+    \entry{tsay2011naturals}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b802cc0c66cae74551aeedcc65c41a7a}{%
+           family={Tsay},
+           familyi={T\bibinitperiod},
+           given={Chia-Jung},
+           giveni={C\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7c9e0471aa5193e352a6d2a8068c675}{%
+           family={Banaji},
+           familyi={B\bibinitperiod},
+           given={Mahzarin\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f96efd38b9ead101caa9ab15dc981458}
+      \strng{fullhash}{f96efd38b9ead101caa9ab15dc981458}
+      \strng{bibnamehash}{f96efd38b9ead101caa9ab15dc981458}
+      \strng{authorbibnamehash}{f96efd38b9ead101caa9ab15dc981458}
+      \strng{authornamehash}{f96efd38b9ead101caa9ab15dc981458}
+      \strng{authorfullhash}{f96efd38b9ead101caa9ab15dc981458}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Social Psychology}
+      \field{number}{2}
+      \field{title}{Naturals and strivers: Preferences and beliefs about sources of achievement}
+      \field{volume}{47}
+      \field{year}{2011}
+      \field{pages}{460\bibrangedash 465}
+      \range{pages}{6}
+    \endentry
+    \entry{young1958rise}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cb653efc7e311ad17b5acd7814145e14}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={M.D.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Books}%
+      }
+      \strng{namehash}{cb653efc7e311ad17b5acd7814145e14}
+      \strng{fullhash}{cb653efc7e311ad17b5acd7814145e14}
+      \strng{bibnamehash}{cb653efc7e311ad17b5acd7814145e14}
+      \strng{authorbibnamehash}{cb653efc7e311ad17b5acd7814145e14}
+      \strng{authornamehash}{cb653efc7e311ad17b5acd7814145e14}
+      \strng{authorfullhash}{cb653efc7e311ad17b5acd7814145e14}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Pelican books}
+      \field{title}{The Rise of the Meritocracy, 1870-2033: An Essay on Education and Equality}
+      \field{year}{1958}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{aas2016natural}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a0264e98f3c90edcfc96768a69b99808}{%
+           family={Aas},
+           familyi={A\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=481f5f63d90eca22e5960160a8d9e7e5}{%
+           family={Wasserman},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{d0bb96d60ff566b7f507000217d9dc33}
+      \strng{fullhash}{d0bb96d60ff566b7f507000217d9dc33}
+      \strng{bibnamehash}{d0bb96d60ff566b7f507000217d9dc33}
+      \strng{authorbibnamehash}{d0bb96d60ff566b7f507000217d9dc33}
+      \strng{authornamehash}{d0bb96d60ff566b7f507000217d9dc33}
+      \strng{authorfullhash}{d0bb96d60ff566b7f507000217d9dc33}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{journal of moral philosophy}
+      \field{number}{5}
+      \field{title}{Natural and social inequality: Disability and fair equality of opportunity}
+      \field{volume}{13}
+      \field{year}{2016}
+      \field{pages}{576\bibrangedash 601}
+      \range{pages}{26}
+    \endentry
+    \entry{bakhtiari2022diminished}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=84d2955e690bb2ebf19387ed19459d4d}{%
+           family={Bakhtiari},
+           familyi={B\bibinitperiod},
+           given={Elyas},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{84d2955e690bb2ebf19387ed19459d4d}
+      \strng{fullhash}{84d2955e690bb2ebf19387ed19459d4d}
+      \strng{bibnamehash}{84d2955e690bb2ebf19387ed19459d4d}
+      \strng{authorbibnamehash}{84d2955e690bb2ebf19387ed19459d4d}
+      \strng{authornamehash}{84d2955e690bb2ebf19387ed19459d4d}
+      \strng{authorfullhash}{84d2955e690bb2ebf19387ed19459d4d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of racial and ethnic health disparities}
+      \field{number}{6}
+      \field{title}{Diminished returns in Europe: socioeconomic status and ethno-racial health disparities across 30 countries in the European social survey}
+      \field{volume}{9}
+      \field{year}{2022}
+      \field{pages}{2412\bibrangedash 2426}
+      \range{pages}{15}
+    \endentry
+    \entry{ballantine2021sociology}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=09b92405afce4af0999fac94fc8e3544}{%
+           family={Ballantine},
+           familyi={B\bibinitperiod},
+           given={Jeanne},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40c6272b1cdfc74c2ab1aa50327417be}{%
+           family={Stuber},
+           familyi={S\bibinitperiod},
+           given={Jenny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c60e70afb8567bfbe93fdc4d5d543cd0}{%
+           family={Everitt},
+           familyi={E\bibinitperiod},
+           given={Judson},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{181486282a5ce727b8c94903dca0af7b}
+      \strng{fullhash}{1810f04a30e5b21e2a6f6cfafa7de3c4}
+      \strng{bibnamehash}{1810f04a30e5b21e2a6f6cfafa7de3c4}
+      \strng{authorbibnamehash}{1810f04a30e5b21e2a6f6cfafa7de3c4}
+      \strng{authornamehash}{181486282a5ce727b8c94903dca0af7b}
+      \strng{authorfullhash}{1810f04a30e5b21e2a6f6cfafa7de3c4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The sociology of education: A systematic analysis}
+      \field{year}{2021}
+    \endentry
+    \entry{bask2015cumulative}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5fe2ba8435431f58716293a4ef954691}{%
+           family={Bask},
+           familyi={B\bibinitperiod},
+           given={Miia},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19d2cc8ee806c424697ce5692106464b}{%
+           family={Bask},
+           familyi={B\bibinitperiod},
+           given={Mikael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science San Francisco, CA USA}%
+      }
+      \strng{namehash}{e4956b0affa739a432bb17bf4e1c73e3}
+      \strng{fullhash}{e4956b0affa739a432bb17bf4e1c73e3}
+      \strng{bibnamehash}{e4956b0affa739a432bb17bf4e1c73e3}
+      \strng{authorbibnamehash}{e4956b0affa739a432bb17bf4e1c73e3}
+      \strng{authornamehash}{e4956b0affa739a432bb17bf4e1c73e3}
+      \strng{authorfullhash}{e4956b0affa739a432bb17bf4e1c73e3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS one}
+      \field{number}{11}
+      \field{title}{Cumulative (dis) advantage and the Matthew effect in life-course analysis}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{e0142447}
+      \range{pages}{-1}
+    \endentry
+    \entry{becares2015understanding}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=85801c7d382eebe1a789a8df6961c57f}{%
+           family={Bécares},
+           familyi={B\bibinitperiod},
+           given={Laia},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=116b9278be92753e8101a47c2c0238a8}{%
+           family={Priest},
+           familyi={P\bibinitperiod},
+           given={Naomi},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science San Francisco, CA USA}%
+      }
+      \strng{namehash}{39ff460222bf9eea2b1f07669a5188b6}
+      \strng{fullhash}{39ff460222bf9eea2b1f07669a5188b6}
+      \strng{bibnamehash}{39ff460222bf9eea2b1f07669a5188b6}
+      \strng{authorbibnamehash}{39ff460222bf9eea2b1f07669a5188b6}
+      \strng{authornamehash}{39ff460222bf9eea2b1f07669a5188b6}
+      \strng{authorfullhash}{39ff460222bf9eea2b1f07669a5188b6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS one}
+      \field{number}{10}
+      \field{title}{Understanding the influence of race/ethnicity, gender, and class on inequalities in academic and non-academic outcomes among eighth-grade students: Findings from an intersectionality approach}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{e0141363}
+      \range{pages}{-1}
+    \endentry
+    \entry{belingheri2021twenty}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=14cb1945a69497ca818cff2ae6cd816c}{%
+           family={Belingheri},
+           familyi={B\bibinitperiod},
+           given={Paola},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8eb61d30cdec0b2d6689240a29b20be5}{%
+           family={Chiarello},
+           familyi={C\bibinitperiod},
+           given={Filippo},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5365cc9846ff1cce65d279c0feb9acc4}{%
+           family={Fronzetti\bibnamedelima Colladon},
+           familyi={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be92092cc703b0c8189ac65a31a08518}{%
+           family={Rovelli},
+           familyi={R\bibinitperiod},
+           given={Paola},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science San Francisco, CA USA}%
+      }
+      \strng{namehash}{ca4aa3cc48447e62cbd60ada6120993b}
+      \strng{fullhash}{e83518279d99c63d9aed9bcc93ac4eed}
+      \strng{bibnamehash}{e83518279d99c63d9aed9bcc93ac4eed}
+      \strng{authorbibnamehash}{e83518279d99c63d9aed9bcc93ac4eed}
+      \strng{authornamehash}{ca4aa3cc48447e62cbd60ada6120993b}
+      \strng{authorfullhash}{e83518279d99c63d9aed9bcc93ac4eed}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Plos one}
+      \field{number}{9}
+      \field{title}{Twenty years of gender equality research: A scoping review based on a new semantic indicator}
+      \field{volume}{16}
+      \field{year}{2021}
+      \field{pages}{e0256474}
+      \range{pages}{-1}
+    \endentry
+    \entry{belloni2014inference}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d36a7f02195c9b910441b02a96249f50}{%
+           family={Belloni},
+           familyi={B\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c75cbe2cefd1e532f636a50892605d06}{%
+           family={Chernozhukov},
+           familyi={C\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b38b53cdfa3ce5b62046f22663d5cc6f}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a8bffb0d311cf18c823ef1b2a70128cf}
+      \strng{fullhash}{06002aeef37ce59a9243e6999d2a067d}
+      \strng{bibnamehash}{06002aeef37ce59a9243e6999d2a067d}
+      \strng{authorbibnamehash}{06002aeef37ce59a9243e6999d2a067d}
+      \strng{authornamehash}{a8bffb0d311cf18c823ef1b2a70128cf}
+      \strng{authorfullhash}{06002aeef37ce59a9243e6999d2a067d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of Economic Studies}
+      \field{number}{2}
+      \field{title}{Inference on treatment effects after selection among high-dimensional controls}
+      \field{volume}{81}
+      \field{year}{2014}
+      \field{pages}{608\bibrangedash 650}
+      \range{pages}{43}
+    \endentry
+    \entry{bhugra2016social}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3177c93e3511737f46e9d281d345fdab}{%
+           family={Bhugra},
+           familyi={B\bibinitperiod},
+           given={Dinesh},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{3177c93e3511737f46e9d281d345fdab}
+      \strng{fullhash}{3177c93e3511737f46e9d281d345fdab}
+      \strng{bibnamehash}{3177c93e3511737f46e9d281d345fdab}
+      \strng{authorbibnamehash}{3177c93e3511737f46e9d281d345fdab}
+      \strng{authornamehash}{3177c93e3511737f46e9d281d345fdab}
+      \strng{authorfullhash}{3177c93e3511737f46e9d281d345fdab}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Review of Psychiatry}
+      \field{number}{4}
+      \field{title}{Social discrimination and social justice}
+      \field{volume}{28}
+      \field{year}{2016}
+      \field{pages}{336\bibrangedash 341}
+      \range{pages}{6}
+    \endentry
+    \entry{borg2005classical}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2ba91b8188a8fdddc0f388ccac52f1a7}{%
+           family={Borg},
+           familyi={B\bibinitperiod},
+           given={Ingwer},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1991adf27207b095759e94666455c5b}{%
+           family={Groenen},
+           familyi={G\bibinitperiod},
+           given={Patrick\bibnamedelima JF},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{ecfa3f14eb6cd2f26b28e4da24aefac9}
+      \strng{fullhash}{ecfa3f14eb6cd2f26b28e4da24aefac9}
+      \strng{bibnamehash}{ecfa3f14eb6cd2f26b28e4da24aefac9}
+      \strng{authorbibnamehash}{ecfa3f14eb6cd2f26b28e4da24aefac9}
+      \strng{authornamehash}{ecfa3f14eb6cd2f26b28e4da24aefac9}
+      \strng{authorfullhash}{ecfa3f14eb6cd2f26b28e4da24aefac9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Modern multidimensional scaling: Theory and applications}
+      \field{title}{Classical scaling}
+      \field{year}{2005}
+      \field{pages}{261\bibrangedash 267}
+      \range{pages}{7}
+    \endentry
+    \entry{bourdieu2017sociologie}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=66fa13ccac127aceaa40508629646509}{%
+           family={Bourdieu},
+           familyi={B\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Média Diffusion}%
+      }
+      \strng{namehash}{66fa13ccac127aceaa40508629646509}
+      \strng{fullhash}{66fa13ccac127aceaa40508629646509}
+      \strng{bibnamehash}{66fa13ccac127aceaa40508629646509}
+      \strng{authorbibnamehash}{66fa13ccac127aceaa40508629646509}
+      \strng{authornamehash}{66fa13ccac127aceaa40508629646509}
+      \strng{authorfullhash}{66fa13ccac127aceaa40508629646509}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sociologie générale, vol. 2. Cours au Collège de France (1983-1986)}
+      \field{year}{2017}
+    \endentry
+    \entry{buning1999propositional}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2c0318e14b664ba89dc7182e64a563d7}{%
+           family={Büning},
+           familyi={B\bibinitperiod},
+           given={Hans\bibnamedelima Kleine},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21413d7389d3e9e0a431700effe10f55}{%
+           family={Lettmann},
+           familyi={L\bibinitperiod},
+           given={Theodor},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{c0a197b65dd1ba14668a47ec4902ce4d}
+      \strng{fullhash}{c0a197b65dd1ba14668a47ec4902ce4d}
+      \strng{bibnamehash}{c0a197b65dd1ba14668a47ec4902ce4d}
+      \strng{authorbibnamehash}{c0a197b65dd1ba14668a47ec4902ce4d}
+      \strng{authornamehash}{c0a197b65dd1ba14668a47ec4902ce4d}
+      \strng{authorfullhash}{c0a197b65dd1ba14668a47ec4902ce4d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Propositional logic: deduction and algorithms}
+      \field{volume}{48}
+      \field{year}{1999}
+    \endentry
+    \entry{busing2005avoiding}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3b67704937a2de8e9189a5c53a6341b1}{%
+           family={Busing},
+           familyi={B\bibinitperiod},
+           given={Frank\bibnamedelima MTA},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88f4ed1e7122121cd87892fe265e6267}{%
+           family={Groenen},
+           familyi={G\bibinitperiod},
+           given={Patrick\bibnamedelima JK},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9acd42090ffbc0c39805d776eb169ddf}{%
+           family={Heiser},
+           familyi={H\bibinitperiod},
+           given={Willem\bibnamedelima J},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{ed00be59918bf023d30c32464e895405}
+      \strng{fullhash}{2822ca16f37aeec4beeadba15c3d265a}
+      \strng{bibnamehash}{2822ca16f37aeec4beeadba15c3d265a}
+      \strng{authorbibnamehash}{2822ca16f37aeec4beeadba15c3d265a}
+      \strng{authornamehash}{ed00be59918bf023d30c32464e895405}
+      \strng{authorfullhash}{2822ca16f37aeec4beeadba15c3d265a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{psychometrika}
+      \field{number}{1}
+      \field{title}{Avoiding degeneracy in multidimensional unfolding by penalizing on the coefficient of variation}
+      \field{volume}{70}
+      \field{year}{2005}
+      \field{pages}{71\bibrangedash 98}
+      \range{pages}{28}
+    \endentry
+    \entry{carter2016microsociologies}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff98833078cb9c21d8a0f970727f0adb}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{ff98833078cb9c21d8a0f970727f0adb}
+      \strng{fullhash}{ff98833078cb9c21d8a0f970727f0adb}
+      \strng{bibnamehash}{ff98833078cb9c21d8a0f970727f0adb}
+      \strng{authorbibnamehash}{ff98833078cb9c21d8a0f970727f0adb}
+      \strng{authornamehash}{ff98833078cb9c21d8a0f970727f0adb}
+      \strng{authorfullhash}{ff98833078cb9c21d8a0f970727f0adb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Handbook of contemporary sociological theory}
+      \field{title}{Microsociologies: Social exchange, trust, justice, and legitimacy}
+      \field{year}{2016}
+      \field{pages}{369\bibrangedash 386}
+      \range{pages}{18}
+    \endentry
+    \entry{chamorro2016talent}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=98de8c910ab1e0b541f7077b234ffed1}{%
+           family={Chamorro-Premuzic},
+           familyi={C\bibinithyphendelim P\bibinitperiod},
+           given={Tomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{98de8c910ab1e0b541f7077b234ffed1}
+      \strng{fullhash}{98de8c910ab1e0b541f7077b234ffed1}
+      \strng{bibnamehash}{98de8c910ab1e0b541f7077b234ffed1}
+      \strng{authorbibnamehash}{98de8c910ab1e0b541f7077b234ffed1}
+      \strng{authornamehash}{98de8c910ab1e0b541f7077b234ffed1}
+      \strng{authorfullhash}{98de8c910ab1e0b541f7077b234ffed1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Harvard Business Review}
+      \field{title}{Talent matters even more than people think}
+      \field{volume}{4}
+      \field{year}{2016}
+    \endentry
+    \entry{chernozhukov2018double}{misc}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=c75cbe2cefd1e532f636a50892605d06}{%
+           family={Chernozhukov},
+           familyi={C\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef4b66d2ca2dde47ec1b0afa98306775}{%
+           family={Chetverikov},
+           familyi={C\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3c2cc443c71254678269de10d61d61c}{%
+           family={Demirer},
+           familyi={D\bibinitperiod},
+           given={Mert},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e6b0ea4eee38822cdb0a4361e98752c}{%
+           family={Duflo},
+           familyi={D\bibinitperiod},
+           given={Esther},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b38b53cdfa3ce5b62046f22663d5cc6f}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c98526d9f1775b95096664c9cf0c633}{%
+           family={Newey},
+           familyi={N\bibinitperiod},
+           given={Whitney},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf615cc72310078c444f0c653a1fc5e7}{%
+           family={Robins},
+           familyi={R\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press Oxford, UK}%
+      }
+      \strng{namehash}{e8ad45c8076487daa445bfbeb4e02a04}
+      \strng{fullhash}{7892f5fdea2b46a0fb4e6c031c27c781}
+      \strng{bibnamehash}{7892f5fdea2b46a0fb4e6c031c27c781}
+      \strng{authorbibnamehash}{7892f5fdea2b46a0fb4e6c031c27c781}
+      \strng{authornamehash}{e8ad45c8076487daa445bfbeb4e02a04}
+      \strng{authorfullhash}{7892f5fdea2b46a0fb4e6c031c27c781}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Double/debiased machine learning for treatment and structural parameters}
+      \field{year}{2018}
+    \endentry
+    \entry{clavero2023idea}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e34772727d730b270e899f7de529622c}{%
+           family={Clavero\bibnamedelima García},
+           familyi={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Sergio\bibnamedelima R},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{e34772727d730b270e899f7de529622c}
+      \strng{fullhash}{e34772727d730b270e899f7de529622c}
+      \strng{bibnamehash}{e34772727d730b270e899f7de529622c}
+      \strng{authorbibnamehash}{e34772727d730b270e899f7de529622c}
+      \strng{authornamehash}{e34772727d730b270e899f7de529622c}
+      \strng{authorfullhash}{e34772727d730b270e899f7de529622c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophia}
+      \field{number}{3}
+      \field{title}{The idea of merit: Delineation and challenges}
+      \field{volume}{51}
+      \field{year}{2023}
+      \field{pages}{1175\bibrangedash 1191}
+      \range{pages}{17}
+    \endentry
+    \entry{de1980multidimensional}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f586d3752400159890d4bb17eae9da2b}{%
+           family={De\bibnamedelima Leeuw},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9acd42090ffbc0c39805d776eb169ddf}{%
+           family={Heiser},
+           familyi={H\bibinitperiod},
+           given={Willem\bibnamedelima J},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {North Holland, Amsterdam}%
+      }
+      \strng{namehash}{29710dc43c5a3e4b22fbd37121fd4dc7}
+      \strng{fullhash}{29710dc43c5a3e4b22fbd37121fd4dc7}
+      \strng{bibnamehash}{29710dc43c5a3e4b22fbd37121fd4dc7}
+      \strng{authorbibnamehash}{29710dc43c5a3e4b22fbd37121fd4dc7}
+      \strng{authornamehash}{29710dc43c5a3e4b22fbd37121fd4dc7}
+      \strng{authorfullhash}{29710dc43c5a3e4b22fbd37121fd4dc7}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Multivariate analysis}
+      \field{number}{1}
+      \field{title}{Multidimensional scaling with restrictions on the configuration}
+      \field{volume}{5}
+      \field{year}{1980}
+      \field{pages}{501\bibrangedash 522}
+      \range{pages}{22}
+    \endentry
+    \entry{dunlosky2020role}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=50f7b4de07a3cc1417efd684bef1c127}{%
+           family={Dunlosky},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8053945a09382037d18054f80324872a}{%
+           family={Badali},
+           familyi={B\bibinitperiod},
+           given={Sabrina},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=682ceb35e6904408ba051438f7f578c0}{%
+           family={Rivers},
+           familyi={R\bibinitperiod},
+           given={Michelle\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8cad027994baa846a4b107b07e45f37}{%
+           family={Rawson},
+           familyi={R\bibinitperiod},
+           given={Katherine\bibnamedelima A},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{be90ab4d175d40839b511f0eebf2fe6d}
+      \strng{fullhash}{cb0e70a0f99d1e2e864ade31e99c3d8c}
+      \strng{bibnamehash}{cb0e70a0f99d1e2e864ade31e99c3d8c}
+      \strng{authorbibnamehash}{cb0e70a0f99d1e2e864ade31e99c3d8c}
+      \strng{authornamehash}{be90ab4d175d40839b511f0eebf2fe6d}
+      \strng{authorfullhash}{cb0e70a0f99d1e2e864ade31e99c3d8c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educational Psychology Review}
+      \field{title}{The role of effort in understanding educational achievement: Objective effort as an explanatory construct versus effort as a student perception}
+      \field{volume}{32}
+      \field{year}{2020}
+      \field{pages}{1163\bibrangedash 1175}
+      \range{pages}{13}
+    \endentry
+    \entry{harlan2015climate}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=209a7987a4558b21c33e4f314e57e850}{%
+           family={Harlan},
+           familyi={H\bibinitperiod},
+           given={Sharon\bibnamedelima L},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c33e4eb3a0b4f5b044e62970834e8f99}{%
+           family={Pellow},
+           familyi={P\bibinitperiod},
+           given={David\bibnamedelima N},
+           giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8302ee779a2ca8c8643e964994bb6f69}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={J\bibnamedelima Timmons},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50c5aeb2a67cd174092ded761213c654}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={Shannon\bibnamedelima Elizabeth},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13dbcc294e82a7600cacf65bf13a8cf9}{%
+           family={Holt},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima G},
+           giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f9669f52c7d4340fd065c59b6f2d364}{%
+           family={Nagel},
+           familyi={N\bibinitperiod},
+           given={Joane},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7c7cec9db0cbd9ad47de6be06bd5e30}{%
+           family={Dunlap},
+           familyi={D\bibinitperiod},
+           given={Riley\bibnamedelima E},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a166dd204dcd551c1953cbcac3d28570}{%
+           family={Brulle},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press,}%
+      }
+      \strng{namehash}{83e30376c3679cb29a2d77d13e6dd222}
+      \strng{fullhash}{b233093ffa0a25e19368b34bbd0bd53a}
+      \strng{bibnamehash}{b233093ffa0a25e19368b34bbd0bd53a}
+      \strng{authorbibnamehash}{b233093ffa0a25e19368b34bbd0bd53a}
+      \strng{authornamehash}{83e30376c3679cb29a2d77d13e6dd222}
+      \strng{authorfullhash}{b233093ffa0a25e19368b34bbd0bd53a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Climate change and society: Sociological perspectives}
+      \field{title}{Climate justice and inequality}
+      \field{volume}{2015}
+      \field{year}{2015}
+      \field{pages}{127\bibrangedash 163}
+      \range{pages}{37}
+    \endentry
+    \entry{harris2021nature}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d38a24b2f9fae5e659b548d56d85e358}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Piper},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f6d32f1b708f2c0d970d3f78050304c}{%
+           family={Mireles-Rios},
+           familyi={M\bibinithyphendelim R\bibinitperiod},
+           given={Rebeca},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{cbc5eb207de7b4991b3a75d9d2094686}
+      \strng{fullhash}{cbc5eb207de7b4991b3a75d9d2094686}
+      \strng{bibnamehash}{cbc5eb207de7b4991b3a75d9d2094686}
+      \strng{authorbibnamehash}{cbc5eb207de7b4991b3a75d9d2094686}
+      \strng{authornamehash}{cbc5eb207de7b4991b3a75d9d2094686}
+      \strng{authorfullhash}{cbc5eb207de7b4991b3a75d9d2094686}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Encyclopedia of evolutionary psychological science}
+      \field{title}{Nature versus nurture}
+      \field{year}{2021}
+      \field{pages}{5347\bibrangedash 5349}
+      \range{pages}{3}
+    \endentry
+    \entry{hartigan1979algorithm}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9e9d4c15e872d6867ff4701b9221a46c}{%
+           family={Hartigan},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef609cdae78604b6acdb86e2d9ce99a2}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Manchek\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{110df48dda2f3685cb0dd8190733a5df}
+      \strng{fullhash}{110df48dda2f3685cb0dd8190733a5df}
+      \strng{bibnamehash}{110df48dda2f3685cb0dd8190733a5df}
+      \strng{authorbibnamehash}{110df48dda2f3685cb0dd8190733a5df}
+      \strng{authornamehash}{110df48dda2f3685cb0dd8190733a5df}
+      \strng{authorfullhash}{110df48dda2f3685cb0dd8190733a5df}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the royal statistical society. series c (applied statistics)}
+      \field{number}{1}
+      \field{title}{Algorithm AS 136: A k-means clustering algorithm}
+      \field{volume}{28}
+      \field{year}{1979}
+      \field{pages}{100\bibrangedash 108}
+      \range{pages}{9}
+    \endentry
+    \entry{hayes2013twilight}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=737dd8b0059acf1c5fbdc7183c28a272}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Crown}%
+      }
+      \strng{namehash}{737dd8b0059acf1c5fbdc7183c28a272}
+      \strng{fullhash}{737dd8b0059acf1c5fbdc7183c28a272}
+      \strng{bibnamehash}{737dd8b0059acf1c5fbdc7183c28a272}
+      \strng{authorbibnamehash}{737dd8b0059acf1c5fbdc7183c28a272}
+      \strng{authornamehash}{737dd8b0059acf1c5fbdc7183c28a272}
+      \strng{authorfullhash}{737dd8b0059acf1c5fbdc7183c28a272}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Twilight of the elites: America after meritocracy}
+      \field{year}{2013}
+    \endentry
+    \entry{heiser1993clustering}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9acd42090ffbc0c39805d776eb169ddf}{%
+           family={Heiser},
+           familyi={H\bibinitperiod},
+           given={Willem\bibnamedelima J},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9acd42090ffbc0c39805d776eb169ddf}
+      \strng{fullhash}{9acd42090ffbc0c39805d776eb169ddf}
+      \strng{bibnamehash}{9acd42090ffbc0c39805d776eb169ddf}
+      \strng{authorbibnamehash}{9acd42090ffbc0c39805d776eb169ddf}
+      \strng{authornamehash}{9acd42090ffbc0c39805d776eb169ddf}
+      \strng{authorfullhash}{9acd42090ffbc0c39805d776eb169ddf}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information and Classification: Concepts, Methods and Applications Proceedings of the 16th Annual Conference of the “Gesellschaft für Klassifikation eV” University of Dortmund, April 1--3, 1992}
+      \field{title}{Clustering in low-dimensional space}
+      \field{year}{1993}
+      \field{pages}{162\bibrangedash 173}
+      \range{pages}{12}
+    \endentry
+    \entry{hulle2018measuring}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=07f11b5cea74b63731def50be5db31b6}{%
+           family={Hülle},
+           familyi={H\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4626785599113746bbc1e6c16d56384a}{%
+           family={Liebig},
+           familyi={L\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19371187a571c80bd12eab80d2abba34}{%
+           family={May},
+           familyi={M\bibinitperiod},
+           given={Meike\bibnamedelima Janina},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5bc1827076ba641e35b160ee05059801}
+      \strng{fullhash}{0968d7136e86741d6675a5ea1a0cdda8}
+      \strng{bibnamehash}{0968d7136e86741d6675a5ea1a0cdda8}
+      \strng{authorbibnamehash}{0968d7136e86741d6675a5ea1a0cdda8}
+      \strng{authornamehash}{5bc1827076ba641e35b160ee05059801}
+      \strng{authorfullhash}{0968d7136e86741d6675a5ea1a0cdda8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Social Indicators Research}
+      \field{title}{Measuring attitudes toward distributive justice: The basic social justice orientations scale}
+      \field{volume}{136}
+      \field{year}{2018}
+      \field{pages}{663\bibrangedash 692}
+      \range{pages}{30}
+    \endentry
+    \entry{jin2020meritocracy}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1fde11267c132a353cdb98fee86a22ca}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7eb2c7b8783bbcda785f1b12a2320507}{%
+           family={Ball},
+           familyi={B\bibinitperiod},
+           given={Stephen\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{e2962c2e442a8ed1e3a91bfbb20e29df}
+      \strng{fullhash}{e2962c2e442a8ed1e3a91bfbb20e29df}
+      \strng{bibnamehash}{e2962c2e442a8ed1e3a91bfbb20e29df}
+      \strng{authorbibnamehash}{e2962c2e442a8ed1e3a91bfbb20e29df}
+      \strng{authornamehash}{e2962c2e442a8ed1e3a91bfbb20e29df}
+      \strng{authorfullhash}{e2962c2e442a8ed1e3a91bfbb20e29df}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British Journal of Sociology of Education}
+      \field{number}{1}
+      \field{title}{Meritocracy, social mobility and a new form of class domination}
+      \field{volume}{41}
+      \field{year}{2020}
+      \field{pages}{64\bibrangedash 79}
+      \range{pages}{16}
+    \endentry
+    \entry{khan2013saying}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=423355d58cb7df20977c982465aaffbf}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Shamus},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=98c1c8003e3efa33c99461eda56274f0}{%
+           family={Jerolmack},
+           familyi={J\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{f6a09af68cf7e438d63f4dbb061e42f6}
+      \strng{fullhash}{f6a09af68cf7e438d63f4dbb061e42f6}
+      \strng{bibnamehash}{f6a09af68cf7e438d63f4dbb061e42f6}
+      \strng{authorbibnamehash}{f6a09af68cf7e438d63f4dbb061e42f6}
+      \strng{authornamehash}{f6a09af68cf7e438d63f4dbb061e42f6}
+      \strng{authorfullhash}{f6a09af68cf7e438d63f4dbb061e42f6}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Sociological Quarterly}
+      \field{number}{1}
+      \field{title}{Saying meritocracy and doing privilege}
+      \field{volume}{54}
+      \field{year}{2013}
+      \field{pages}{9\bibrangedash 19}
+      \range{pages}{11}
+    \endentry
+    \entry{knight2013luck}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6da944ab813e3d6afa9be048c5dac487}{%
+           family={Knight},
+           familyi={K\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{6da944ab813e3d6afa9be048c5dac487}
+      \strng{fullhash}{6da944ab813e3d6afa9be048c5dac487}
+      \strng{bibnamehash}{6da944ab813e3d6afa9be048c5dac487}
+      \strng{authorbibnamehash}{6da944ab813e3d6afa9be048c5dac487}
+      \strng{authornamehash}{6da944ab813e3d6afa9be048c5dac487}
+      \strng{authorfullhash}{6da944ab813e3d6afa9be048c5dac487}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophy compass}
+      \field{number}{10}
+      \field{title}{Luck egalitarianism}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{pages}{924\bibrangedash 934}
+      \range{pages}{11}
+    \endentry
+    \entry{mair2015unidimensional}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=215445b393eea0f8b647d504dddc86ac}{%
+           family={Mair},
+           familyi={M\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f586d3752400159890d4bb17eae9da2b}{%
+           family={De\bibnamedelima Leeuw},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c3e1e577d991f3ec793ccb536a60e25a}
+      \strng{fullhash}{c3e1e577d991f3ec793ccb536a60e25a}
+      \strng{bibnamehash}{c3e1e577d991f3ec793ccb536a60e25a}
+      \strng{authorbibnamehash}{c3e1e577d991f3ec793ccb536a60e25a}
+      \strng{authornamehash}{c3e1e577d991f3ec793ccb536a60e25a}
+      \strng{authorfullhash}{c3e1e577d991f3ec793ccb536a60e25a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wiley StatsRef: Statistics Reference Online}
+      \field{title}{Unidimensional scaling}
+      \field{volume}{630}
+      \field{year}{2015}
+    \endentry
+    \entry{mark2020belief}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eecbdbff1564f27ff0cfabb6cd9eb8a3}{%
+           family={Mark},
+           familyi={M\bibinitperiod},
+           given={Clifton},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Princeton, NJ, USA}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{eecbdbff1564f27ff0cfabb6cd9eb8a3}
+      \strng{fullhash}{eecbdbff1564f27ff0cfabb6cd9eb8a3}
+      \strng{bibnamehash}{eecbdbff1564f27ff0cfabb6cd9eb8a3}
+      \strng{authorbibnamehash}{eecbdbff1564f27ff0cfabb6cd9eb8a3}
+      \strng{authornamehash}{eecbdbff1564f27ff0cfabb6cd9eb8a3}
+      \strng{authorfullhash}{eecbdbff1564f27ff0cfabb6cd9eb8a3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A belief in meritocracy is not only false: it’s bad for you}
+      \field{year}{2020}
+    \endentry
+    \entry{markovits2019meritocracy}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b423b159112d24079063ee9258569677}{%
+           family={Markovits},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin UK}%
+      }
+      \strng{namehash}{b423b159112d24079063ee9258569677}
+      \strng{fullhash}{b423b159112d24079063ee9258569677}
+      \strng{bibnamehash}{b423b159112d24079063ee9258569677}
+      \strng{authorbibnamehash}{b423b159112d24079063ee9258569677}
+      \strng{authornamehash}{b423b159112d24079063ee9258569677}
+      \strng{authorfullhash}{b423b159112d24079063ee9258569677}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The meritocracy trap}
+      \field{year}{2019}
+    \endentry
+    \entry{marzano2000transforming}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9724569ecc2174f24bf5014413535644}{%
+           family={Marzano},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ERIC}%
+      }
+      \strng{namehash}{9724569ecc2174f24bf5014413535644}
+      \strng{fullhash}{9724569ecc2174f24bf5014413535644}
+      \strng{bibnamehash}{9724569ecc2174f24bf5014413535644}
+      \strng{authorbibnamehash}{9724569ecc2174f24bf5014413535644}
+      \strng{authornamehash}{9724569ecc2174f24bf5014413535644}
+      \strng{authorfullhash}{9724569ecc2174f24bf5014413535644}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Transforming Classroom Grading.}
+      \field{year}{2000}
+    \endentry
+    \entry{meyer2022talents}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c01cf377c150031b635a1cf1f36b744e}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={Kirsten},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{c01cf377c150031b635a1cf1f36b744e}
+      \strng{fullhash}{c01cf377c150031b635a1cf1f36b744e}
+      \strng{bibnamehash}{c01cf377c150031b635a1cf1f36b744e}
+      \strng{authorbibnamehash}{c01cf377c150031b635a1cf1f36b744e}
+      \strng{authornamehash}{c01cf377c150031b635a1cf1f36b744e}
+      \strng{authorfullhash}{c01cf377c150031b635a1cf1f36b744e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Talents and Distributive Justice}
+      \field{title}{Talents, abilities and educational justice}
+      \field{year}{2022}
+      \field{pages}{34\bibrangedash 44}
+      \range{pages}{11}
+    \endentry
+    \entry{meyers2013talent}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=033cca5e53f8a78bf94037af37fae0f4}{%
+           family={Meyers},
+           familyi={M\bibinitperiod},
+           given={M\bibnamedelima Christina},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=159b4e05e70ababbefd8ad0fd41eeb03}{%
+           family={Van\bibnamedelima Woerkom},
+           familyi={V\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Marianne},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2dff9d23f2c3fa32f59e72dc3f82fb8}{%
+           family={Dries},
+           familyi={D\bibinitperiod},
+           given={Nicky},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{31bb9df982c45edb90139e3e239d5e59}
+      \strng{fullhash}{ab25c39605880b38fe1fce87d8610a28}
+      \strng{bibnamehash}{ab25c39605880b38fe1fce87d8610a28}
+      \strng{authorbibnamehash}{ab25c39605880b38fe1fce87d8610a28}
+      \strng{authornamehash}{31bb9df982c45edb90139e3e239d5e59}
+      \strng{authorfullhash}{ab25c39605880b38fe1fce87d8610a28}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human Resource Management Review}
+      \field{number}{4}
+      \field{title}{Talent—Innate or acquired? Theoretical considerations and their implications for talent management}
+      \field{volume}{23}
+      \field{year}{2013}
+      \field{pages}{305\bibrangedash 321}
+      \range{pages}{17}
+    \endentry
+    \entry{mijs2021paradox}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d3f8cff860ef9809d3fba054eb6036b6}{%
+           family={Mijs},
+           familyi={M\bibinitperiod},
+           given={Jonathan\bibnamedelima JB},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{fullhash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{bibnamehash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{authorbibnamehash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{authornamehash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{authorfullhash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Socio-Economic Review}
+      \field{number}{1}
+      \field{title}{The paradox of inequality: Income inequality and belief in meritocracy go hand in hand}
+      \field{volume}{19}
+      \field{year}{2021}
+      \field{pages}{7\bibrangedash 35}
+      \range{pages}{29}
+    \endentry
+    \entry{mijs2022earning}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d3f8cff860ef9809d3fba054eb6036b6}{%
+           family={Mijs},
+           familyi={M\bibinitperiod},
+           given={Jonathan\bibnamedelima JB},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{fullhash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{bibnamehash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{authorbibnamehash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{authornamehash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \strng{authorfullhash}{d3f8cff860ef9809d3fba054eb6036b6}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Talents and Distributive Justice}
+      \field{title}{Earning rent with your talent: Modern-day inequality rests on the power to define, transfer and institutionalize talent}
+      \field{year}{2022}
+      \field{pages}{45\bibrangedash 53}
+      \range{pages}{9}
+    \endentry
+    \entry{montag2018nature}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=345ee4795677c5c5750d25dfaccd668a}{%
+           family={Montag},
+           familyi={M\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a13aff922a90d2858398db578827d4d}{%
+           family={Hahn},
+           familyi={H\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag Heidelberg}%
+      }
+      \strng{namehash}{acc6276313a6517180c0d0a2caa73b59}
+      \strng{fullhash}{acc6276313a6517180c0d0a2caa73b59}
+      \strng{bibnamehash}{acc6276313a6517180c0d0a2caa73b59}
+      \strng{authorbibnamehash}{acc6276313a6517180c0d0a2caa73b59}
+      \strng{authornamehash}{acc6276313a6517180c0d0a2caa73b59}
+      \strng{authorfullhash}{acc6276313a6517180c0d0a2caa73b59}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Encyclopedia of personality and individual differences}
+      \field{title}{Nature-nurture debate}
+      \field{year}{2018}
+    \endentry
+    \entry{murtagh2014ward}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b451253f9003290ac47fe9da636f3486}{%
+           family={Murtagh},
+           familyi={M\bibinitperiod},
+           given={Fionn},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5993ce00a3c0c0a36096f597c61087c4}{%
+           family={Legendre},
+           familyi={L\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9ebf67673fd8b61513ecdc479ded6cde}
+      \strng{fullhash}{9ebf67673fd8b61513ecdc479ded6cde}
+      \strng{bibnamehash}{9ebf67673fd8b61513ecdc479ded6cde}
+      \strng{authorbibnamehash}{9ebf67673fd8b61513ecdc479ded6cde}
+      \strng{authornamehash}{9ebf67673fd8b61513ecdc479ded6cde}
+      \strng{authorfullhash}{9ebf67673fd8b61513ecdc479ded6cde}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of classification}
+      \field{title}{Ward’s hierarchical agglomerative clustering method: which algorithms implement Ward’s criterion?}
+      \field{volume}{31}
+      \field{year}{2014}
+      \field{pages}{274\bibrangedash 295}
+      \range{pages}{22}
+    \endentry
+    \entry{nahai2013meritocracy}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8550cde3699087e3078d70d71b02672c}{%
+           family={Nahai},
+           familyi={N\bibinitperiod},
+           given={Rebekah\bibnamedelima N},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{8550cde3699087e3078d70d71b02672c}
+      \strng{fullhash}{8550cde3699087e3078d70d71b02672c}
+      \strng{bibnamehash}{8550cde3699087e3078d70d71b02672c}
+      \strng{authorbibnamehash}{8550cde3699087e3078d70d71b02672c}
+      \strng{authornamehash}{8550cde3699087e3078d70d71b02672c}
+      \strng{authorfullhash}{8550cde3699087e3078d70d71b02672c}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Oxford Review of Education}
+      \field{number}{5}
+      \field{title}{Is meritocracy fair? A qualitative case study of admissions at the University of Oxford}
+      \field{volume}{39}
+      \field{year}{2013}
+      \field{pages}{681\bibrangedash 701}
+      \range{pages}{21}
+    \endentry
+    \entry{plattner2021tyranny}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a52c4a47ffb92ffb9a9b300acc137949}{%
+           family={Plattner},
+           familyi={P\bibinitperiod},
+           given={Marc\bibnamedelima F},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Johns Hopkins University Press}%
+      }
+      \strng{namehash}{a52c4a47ffb92ffb9a9b300acc137949}
+      \strng{fullhash}{a52c4a47ffb92ffb9a9b300acc137949}
+      \strng{bibnamehash}{a52c4a47ffb92ffb9a9b300acc137949}
+      \strng{authorbibnamehash}{a52c4a47ffb92ffb9a9b300acc137949}
+      \strng{authornamehash}{a52c4a47ffb92ffb9a9b300acc137949}
+      \strng{authorfullhash}{a52c4a47ffb92ffb9a9b300acc137949}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Democracy}
+      \field{number}{1}
+      \field{title}{The tyranny of merit: What's become of the common good? By Michael J. Sandel}
+      \field{volume}{32}
+      \field{year}{2021}
+      \field{pages}{155\bibrangedash 159}
+      \range{pages}{5}
+    \endentry
+    \entry{ries2011lean}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ae634b261ee7bc5f734840abf4408e1}{%
+           family={Ries},
+           familyi={R\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Crown Currency}%
+      }
+      \strng{namehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{fullhash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{bibnamehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{authorbibnamehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{authornamehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{authorfullhash}{3ae634b261ee7bc5f734840abf4408e1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The lean startup: How today's entrepreneurs use continuous innovation to create radically successful businesses}
+      \field{year}{2011}
+    \endentry
+    \entry{rowlingson2011deserving}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cdf6624fccb75473212121627ee63501}{%
+           family={Rowlingson},
+           familyi={R\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dafa9289ab9b255a1e9250f4e3b962f9}{%
+           family={Connor},
+           familyi={C\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a5d28eb2e5b0670e25b389435316a17f}
+      \strng{fullhash}{a5d28eb2e5b0670e25b389435316a17f}
+      \strng{bibnamehash}{a5d28eb2e5b0670e25b389435316a17f}
+      \strng{authorbibnamehash}{a5d28eb2e5b0670e25b389435316a17f}
+      \strng{authornamehash}{a5d28eb2e5b0670e25b389435316a17f}
+      \strng{authorfullhash}{a5d28eb2e5b0670e25b389435316a17f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Social Policy}
+      \field{number}{3}
+      \field{title}{The ‘deserving’rich? Inequality, morality and social policy}
+      \field{volume}{40}
+      \field{year}{2011}
+      \field{pages}{437\bibrangedash 452}
+      \range{pages}{16}
+    \endentry
+    \entry{ruger2020social}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ddc75ac9c2a0792c5102e99172cc639b}{%
+           family={Ruger},
+           familyi={R\bibinitperiod},
+           given={Jennifer\bibnamedelima Prah},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {British Medical Journal Publishing Group}%
+      }
+      \strng{namehash}{ddc75ac9c2a0792c5102e99172cc639b}
+      \strng{fullhash}{ddc75ac9c2a0792c5102e99172cc639b}
+      \strng{bibnamehash}{ddc75ac9c2a0792c5102e99172cc639b}
+      \strng{authorbibnamehash}{ddc75ac9c2a0792c5102e99172cc639b}
+      \strng{authornamehash}{ddc75ac9c2a0792c5102e99172cc639b}
+      \strng{authorfullhash}{ddc75ac9c2a0792c5102e99172cc639b}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{bmj}
+      \field{title}{Social justice as a foundation for democracy and health}
+      \field{volume}{371}
+      \field{year}{2020}
+    \endentry
+    \entry{sandel2020tyranny}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fdf1c698030d55e4f99fbe10740a0f4d}{%
+           family={Sandel},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin UK}%
+      }
+      \strng{namehash}{fdf1c698030d55e4f99fbe10740a0f4d}
+      \strng{fullhash}{fdf1c698030d55e4f99fbe10740a0f4d}
+      \strng{bibnamehash}{fdf1c698030d55e4f99fbe10740a0f4d}
+      \strng{authorbibnamehash}{fdf1c698030d55e4f99fbe10740a0f4d}
+      \strng{authornamehash}{fdf1c698030d55e4f99fbe10740a0f4d}
+      \strng{authorfullhash}{fdf1c698030d55e4f99fbe10740a0f4d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The tyranny of merit: What's become of the common good?}
+      \field{year}{2020}
+    \endentry
+    \entry{segall2013equality}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b591d2d406f72a792efb7a9958661079}{%
+           family={Segall},
+           familyi={S\bibinitperiod},
+           given={Shlomi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {OUP Oxford}%
+      }
+      \strng{namehash}{b591d2d406f72a792efb7a9958661079}
+      \strng{fullhash}{b591d2d406f72a792efb7a9958661079}
+      \strng{bibnamehash}{b591d2d406f72a792efb7a9958661079}
+      \strng{authorbibnamehash}{b591d2d406f72a792efb7a9958661079}
+      \strng{authornamehash}{b591d2d406f72a792efb7a9958661079}
+      \strng{authorfullhash}{b591d2d406f72a792efb7a9958661079}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Equality and opportunity}
+      \field{year}{2013}
+    \endentry
+    \entry{shermer2017secret}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=01e5e8055941a79e7b8968b3818d8f1c}{%
+           family={Shermer},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Scientific American}%
+      }
+      \strng{namehash}{01e5e8055941a79e7b8968b3818d8f1c}
+      \strng{fullhash}{01e5e8055941a79e7b8968b3818d8f1c}
+      \strng{bibnamehash}{01e5e8055941a79e7b8968b3818d8f1c}
+      \strng{authorbibnamehash}{01e5e8055941a79e7b8968b3818d8f1c}
+      \strng{authornamehash}{01e5e8055941a79e7b8968b3818d8f1c}
+      \strng{authorfullhash}{01e5e8055941a79e7b8968b3818d8f1c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific American}
+      \field{number}{5}
+      \field{title}{What is the secret of success?}
+      \field{volume}{317}
+      \field{year}{2017}
+      \field{pages}{80\bibrangedash 80}
+      \range{pages}{1}
+    \endentry
+    \entry{soares2017meritocracy}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e0e81367dc69db4e7ae67cb9f90648a7}{%
+           family={Soares},
+           familyi={S\bibinitperiod},
+           given={Joseph\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{e0e81367dc69db4e7ae67cb9f90648a7}
+      \strng{fullhash}{e0e81367dc69db4e7ae67cb9f90648a7}
+      \strng{bibnamehash}{e0e81367dc69db4e7ae67cb9f90648a7}
+      \strng{authorbibnamehash}{e0e81367dc69db4e7ae67cb9f90648a7}
+      \strng{authornamehash}{e0e81367dc69db4e7ae67cb9f90648a7}
+      \strng{authorfullhash}{e0e81367dc69db4e7ae67cb9f90648a7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ethnic and Racial Studies}
+      \field{number}{13}
+      \field{title}{Meritocracy dismissed}
+      \field{volume}{40}
+      \field{year}{2017}
+      \field{pages}{2300\bibrangedash 2307}
+      \range{pages}{8}
+    \endentry
+    \entry{starmans2017people}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f93dbf17196fe91647286a01fb0c2517}{%
+           family={Starmans},
+           familyi={S\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f6b5b7b94f160900d53490b9ff29ede}{%
+           family={Sheskin},
+           familyi={S\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea3ef05bf24aa259513c3414c4eb0007}{%
+           family={Bloom},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group UK London}%
+      }
+      \strng{namehash}{46b8aa04837f27d23f3bf8f26a2335fb}
+      \strng{fullhash}{c4c5f02de6bf87a9686b2c7c986d3578}
+      \strng{bibnamehash}{c4c5f02de6bf87a9686b2c7c986d3578}
+      \strng{authorbibnamehash}{c4c5f02de6bf87a9686b2c7c986d3578}
+      \strng{authornamehash}{46b8aa04837f27d23f3bf8f26a2335fb}
+      \strng{authorfullhash}{c4c5f02de6bf87a9686b2c7c986d3578}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Human Behaviour}
+      \field{number}{4}
+      \field{title}{Why people prefer unequal societies}
+      \field{volume}{1}
+      \field{year}{2017}
+      \field{pages}{0082}
+      \range{pages}{1}
+    \endentry
+    \entry{swift1997meritocratic}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b347e2682543a1dfff85fc1f17f15912}{%
+           family={Swift},
+           familyi={S\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e241357709c101235cae3e419e4baff}{%
+           family={Marshall},
+           familyi={M\bibinitperiod},
+           given={Gordon},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{77678f8e38de55b39df705dc4e390574}
+      \strng{fullhash}{77678f8e38de55b39df705dc4e390574}
+      \strng{bibnamehash}{77678f8e38de55b39df705dc4e390574}
+      \strng{authorbibnamehash}{77678f8e38de55b39df705dc4e390574}
+      \strng{authornamehash}{77678f8e38de55b39df705dc4e390574}
+      \strng{authorfullhash}{77678f8e38de55b39df705dc4e390574}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Policy Studies}
+      \field{number}{1}
+      \field{title}{Meritocratic equality of opportunity: Economic efficiency, social justice, or both?}
+      \field{volume}{18}
+      \field{year}{1997}
+      \field{pages}{35\bibrangedash 48}
+      \range{pages}{14}
+    \endentry
+    \entry{tavsner2022time}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cc583f5b803ed716e5fc70cdb94ea36f}{%
+           family={Tašner},
+           familyi={T\bibinitperiod},
+           given={Veronika},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f07f0ccd61831d1bef3daf3752496577}{%
+           family={Gaber},
+           familyi={G\bibinitperiod},
+           given={Slavko},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage UK: London, England}%
+      }
+      \strng{namehash}{1b2be8e44d5ec366ec18f88ae4d34d46}
+      \strng{fullhash}{1b2be8e44d5ec366ec18f88ae4d34d46}
+      \strng{bibnamehash}{1b2be8e44d5ec366ec18f88ae4d34d46}
+      \strng{authorbibnamehash}{1b2be8e44d5ec366ec18f88ae4d34d46}
+      \strng{authornamehash}{1b2be8e44d5ec366ec18f88ae4d34d46}
+      \strng{authorfullhash}{1b2be8e44d5ec366ec18f88ae4d34d46}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Theory and Research in Education}
+      \field{number}{2}
+      \field{title}{Is it time for a new meritocracy?}
+      \field{volume}{20}
+      \field{year}{2022}
+      \field{pages}{182\bibrangedash 192}
+      \range{pages}{11}
+    \endentry
+    \entry{tibshirani2001estimating}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=88eea600247d798f8b2ce0b2dc614492}{%
+           family={Tibshirani},
+           familyi={T\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3b10303fca503b067ad4a0eee4df006}{%
+           family={Walther},
+           familyi={W\bibinitperiod},
+           given={Guenther},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0cb8fe4210baa81c4b0e67913b4d2768}{%
+           family={Hastie},
+           familyi={H\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{68e88ae6f3dba7e3a64834f75879bfe0}
+      \strng{fullhash}{86e3f28d874cfbbbcbbd9be64b00440d}
+      \strng{bibnamehash}{86e3f28d874cfbbbcbbd9be64b00440d}
+      \strng{authorbibnamehash}{86e3f28d874cfbbbcbbd9be64b00440d}
+      \strng{authornamehash}{68e88ae6f3dba7e3a64834f75879bfe0}
+      \strng{authorfullhash}{86e3f28d874cfbbbcbbd9be64b00440d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the royal statistical society: series b (statistical methodology)}
+      \field{number}{2}
+      \field{title}{Estimating the number of clusters in a data set via the gap statistic}
+      \field{volume}{63}
+      \field{year}{2001}
+      \field{pages}{411\bibrangedash 423}
+      \range{pages}{13}
+    \endentry
+    \entry{tittler2020personal}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6db02c1e03e597b61ae8defb99bdb553}{%
+           family={Tittler},
+           familyi={T\bibinitperiod},
+           given={Meredith\bibnamedelima V},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1696645d6297f2c62cba1dc7e56cd2e}{%
+           family={Lannin},
+           familyi={L\bibinitperiod},
+           given={Daniel\bibnamedelima G},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a808f1aaf409e47b38d1ac46130d70fd}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Suejung},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=039c9f21b826dc07e98e1a12e0962c53}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Lukas\bibnamedelima J},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0ba25d24e07afef72470c61de3d6b546}
+      \strng{fullhash}{a1792f1ba1e3c510fd9bc6dd4e9c05f6}
+      \strng{bibnamehash}{a1792f1ba1e3c510fd9bc6dd4e9c05f6}
+      \strng{authorbibnamehash}{a1792f1ba1e3c510fd9bc6dd4e9c05f6}
+      \strng{authornamehash}{0ba25d24e07afef72470c61de3d6b546}
+      \strng{authorfullhash}{a1792f1ba1e3c510fd9bc6dd4e9c05f6}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Current Psychology}
+      \field{title}{Why personal values matter: Values, colorblindness, and social justice action orientation}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+    \endentry
+    \entry{trautmann2023procedural}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d8765cab9d6255c375f703cb87837ab7}{%
+           family={Trautmann},
+           familyi={T\bibinitperiod},
+           given={Stefan\bibnamedelima T},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{d8765cab9d6255c375f703cb87837ab7}
+      \strng{fullhash}{d8765cab9d6255c375f703cb87837ab7}
+      \strng{bibnamehash}{d8765cab9d6255c375f703cb87837ab7}
+      \strng{authorbibnamehash}{d8765cab9d6255c375f703cb87837ab7}
+      \strng{authornamehash}{d8765cab9d6255c375f703cb87837ab7}
+      \strng{authorfullhash}{d8765cab9d6255c375f703cb87837ab7}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Surveys}
+      \field{number}{5}
+      \field{title}{Procedural fairness and equality of opportunity}
+      \field{volume}{37}
+      \field{year}{2023}
+      \field{pages}{1697\bibrangedash 1714}
+      \range{pages}{18}
+    \endentry
+    \entry{tsay2016privileging}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b802cc0c66cae74551aeedcc65c41a7a}{%
+           family={Tsay},
+           familyi={T\bibinitperiod},
+           given={Chia-Jung},
+           giveni={C\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{b802cc0c66cae74551aeedcc65c41a7a}
+      \strng{fullhash}{b802cc0c66cae74551aeedcc65c41a7a}
+      \strng{bibnamehash}{b802cc0c66cae74551aeedcc65c41a7a}
+      \strng{authorbibnamehash}{b802cc0c66cae74551aeedcc65c41a7a}
+      \strng{authornamehash}{b802cc0c66cae74551aeedcc65c41a7a}
+      \strng{authorfullhash}{b802cc0c66cae74551aeedcc65c41a7a}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Personality and Social Psychology Bulletin}
+      \field{number}{1}
+      \field{title}{Privileging naturals over strivers: The costs of the naturalness bias}
+      \field{volume}{42}
+      \field{year}{2016}
+      \field{pages}{40\bibrangedash 53}
+      \range{pages}{14}
+    \endentry
+    \entry{tsay2011naturals}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b802cc0c66cae74551aeedcc65c41a7a}{%
+           family={Tsay},
+           familyi={T\bibinitperiod},
+           given={Chia-Jung},
+           giveni={C\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7c9e0471aa5193e352a6d2a8068c675}{%
+           family={Banaji},
+           familyi={B\bibinitperiod},
+           given={Mahzarin\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f96efd38b9ead101caa9ab15dc981458}
+      \strng{fullhash}{f96efd38b9ead101caa9ab15dc981458}
+      \strng{bibnamehash}{f96efd38b9ead101caa9ab15dc981458}
+      \strng{authorbibnamehash}{f96efd38b9ead101caa9ab15dc981458}
+      \strng{authornamehash}{f96efd38b9ead101caa9ab15dc981458}
+      \strng{authorfullhash}{f96efd38b9ead101caa9ab15dc981458}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Social Psychology}
+      \field{number}{2}
+      \field{title}{Naturals and strivers: Preferences and beliefs about sources of achievement}
+      \field{volume}{47}
+      \field{year}{2011}
+      \field{pages}{460\bibrangedash 465}
+      \range{pages}{6}
+    \endentry
+    \entry{young1958rise}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cb653efc7e311ad17b5acd7814145e14}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={M.D.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Books}%
+      }
+      \strng{namehash}{cb653efc7e311ad17b5acd7814145e14}
+      \strng{fullhash}{cb653efc7e311ad17b5acd7814145e14}
+      \strng{bibnamehash}{cb653efc7e311ad17b5acd7814145e14}
+      \strng{authorbibnamehash}{cb653efc7e311ad17b5acd7814145e14}
+      \strng{authornamehash}{cb653efc7e311ad17b5acd7814145e14}
+      \strng{authorfullhash}{cb653efc7e311ad17b5acd7814145e14}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Pelican books}
+      \field{title}{The Rise of the Meritocracy, 1870-2033: An Essay on Education and Equality}
+      \field{year}{1958}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

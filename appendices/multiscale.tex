@@ -1,0 +1,47 @@
+This study employs a technique called Multi-Dimensional Scaling (MDS) with two dimensions. MDS is a method that transforms dissimilarity information between features into a coordinate graph, allowing for feature clustering. To begin the MDS process, the Euclidean distance between features is calculated based on the cleaned dataset, resulting in an $n \times n$ matrix of dissimilarities ($n = 56$ in this study). This matrix, denoted as $\delta_{ij}$, captures the pairwise differences between the features.
+
+The goal is to find a configuration matrix $X$ in $p$-dimensional Euclidean space (with $p$ being the number of dimensions chosen) such that the distances between points in $X$ approximate the given dissimilarities $\delta_{ij}$. The configuration matrix $X$ consists of points representing the features. The approximation formula is given by:
+\[
+\delta_{ij} \approx d_{ij}(X) = \sqrt{\sum_{s=1}^{p} (x_{is} - x_{js})^2}
+\]
+where $s = 1, \ldots, p$ refers to the dimensions and $i, j = 1, \ldots, n$ index the points.
+
+The primary aim is to generate the configuration $X$ while retaining as much of the original dissimilarity information as possible. To optimize this process, a function called stress, $\sigma$, is defined to measure the loss of dissimilarity information and to be minimized.
+
+Since $\delta_{ij}$ is symmetric, non-negative, and hollow (i.e., the diagonal is zero because an object is not different from itself), its upper triangular part (excluding the diagonal) is examined. The \textbf{stress function} is defined as:
+\begin{equation} \label{eq:stress}
+	\sigma^2(X) = \sum_{i<j} w_{ij} (\delta_{ij} - d_{ij}(X))^2
+\end{equation}
+where $w_{ij}$ represents the weight assigned to each component. The weight matrix $w_{ij}$ is symmetric, non-negative, and hollow. The number of components in the upper triangle is $n(n-1)/2$, and it holds that:
+\[
+\sum_{i<j} w_{ij} \delta_{ij}^2 = \frac{n(n-1)}{2}
+\]
+
+To minimize $\sigma^2(X)$, the majorization algorithm is employed. This approach finds a simpler surrogate function $\tau(X, Y)$ that majorizes $\sigma(X)$ for all $X$, where $Y$ is a fixed point known as the supporting point. This leads to the ``sandwich inequality'':
+\[
+\sigma(X^*) \leq \tau(X^*, Y) \leq \tau(Y, Y) = \sigma(Y)
+\]
+where $X^*$ is the optimal configuration.
+
+Define $V$ as the weighting matrix formed by the coefficients $w_{ij}$ such that:
+\[
+\sum_{i<j} w_{ij} d_{ij}^2(X) = \text{tr}(X' V X)
+\]
+Accordingly, $\tau(X, Y)$ is defined following \citet{de1980multidimensional} as:
+\[
+\tau(X, Y) := \frac{n(n-1)}{2} + \text{tr}((X - Y)' V (X - Y)) - \text{tr}(X' V Y)
+\]
+
+The majorization procedure is an iterative algorithm designed to optimize $X$, reduce $\sigma^2(X)$, and preserve dissimilarity information. The steps are as follows:
+
+\textbf{Step 1:} Begin by selecting an initial value $Y_0$, the Torgerson matrix, which serves as the initial configuration used in classical scaling \citep{borg2005classical}.
+
+\textbf{Step 2:} In each iteration $t$, update the configuration to $X_t$ such that:
+\[
+\tau(X_t, Y) \leq \tau(Y, Y)
+\]
+This ensures the new configuration better preserves the dissimilarity structure.
+
+\textbf{Step 3:} Check for convergence by computing the difference between stress values $\sigma(Y)$ and $\sigma(X_t)$. If the difference is below a predefined tolerance $\varepsilon$ (default $= 10^{-6}$), the algorithm stops. Otherwise, set $Y = X_t$ and repeat Step 2.
+
+The procedure continues until either the convergence condition is met or the maximum number of iterations (default $= 1000$) is reached. The final configuration matrix $X$ represents a coordinates graph where each point corresponds to a feature, and the distances between points approximate the dissimilarities in the original dataset. This provides insights into the clustering of features related to social fairness.

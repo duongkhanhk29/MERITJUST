@@ -1,0 +1,4 @@
+
+This method is appropriate when there is confidence that only one underlying dimension is present. It can be regarded as a special case of multidimensional scaling with one dimension, which may lead to the ``local minimum problem''~\citep{mair2015unidimensional}. This issue arises when the optimization algorithm becomes trapped in a locally optimal configuration, thereby affecting the quality of the one-dimensional representation.
+
+To address this, \citet{mair2015unidimensional} note that the stress function partially depends on the rank order of variables in $X$ (as described in Equation~\ref{eq:stress} in the section in \ref{app:multiscale}). With $N$ variables, there are $N!$ possible permutations of variable order, and the objective is to select the ordering that yields the lowest stress value. This approach, however, is computationally feasible only for datasets with fewer than 10 variables.
